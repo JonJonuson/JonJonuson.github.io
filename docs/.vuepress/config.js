@@ -1,12 +1,16 @@
 const { defaultTheme } = require('vuepress')
-const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
+// const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
+const { searchPlugin } = require('@vuepress/plugin-search')
 
 module.exports = {
     lang: 'en-US',
     // title: 'Hjálpin',
     description: 'Skútan hjálpin',
     plugins: [
-      docsearchPlugin({
+      // docsearchPlugin({
+      //   // options
+      // }),
+      searchPlugin({
         // options
       }),
     ],

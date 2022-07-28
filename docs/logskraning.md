@@ -7,6 +7,15 @@ description: Leiðbeiningar fyrir Skútuna
 # Lögskráningar á skip
 
 
+::: tip Flæði fyrir hjálpina
+- Lögskráningaraðilar (skipstjóri, útgerð/eigandi, SGS innri)
+- Landhelgisgæslan
+- Atvinnuréttidi/réttindi - próf, námskeið. SGS innri og fulltrúar skóla
+- Sjómenn. Mínar síður (lögskráningardagar, sjóbækur ...)
+:::
+
+
+
 - Má rekja aftur til ársins 1889 í lögskráningarbálk farmannalaga – Hreppstjórar, tollstjórar og sýslumenn
 - Skipstjóri á að lögskrá áður en skipið lætur úr höfn
 - Eftirlit í höndum Samgöngustofa og Landhelgisgæslu á hafi úti
@@ -30,9 +39,78 @@ Hægt er að sækja um aðgang að lögskráningu [hér](https://eydublod.samgon
 ## Mönnunarreglur 
 tilgreina fjölda manna í áhöfn og hvaða atvinnuréttindi (skírteini) áhöfnin þarf að hafa á viðkomandi skipi og hvaða stöður þurfa að vera mannaðar.
 
+Mönnunarreglur tilgreina hvað réttindi áhöfnin um borð í tilteknu skipi þarf að hafa. 
+Mönnunarreglur eru háðar lögum og reglugerðum. Í þeim er tilgreint skip sem hefur ákveðna tegund, farsvið, stærð, vélarstærð og farþegafjölda  þarf að hafa ákeðna lágmarksmönnun sem hefur ákveðin réttindi. 
+
+Í kafla 2.1 er fjallað um regluvörð sem er mjög svipað þessari lógík þar sem tilgreint er að lög og reglugerðir og þá hvaða skírteini þarf viðkomandi skip að hafa.
+
+Nákvæmar skilgreining á hvernig mönnunarreglur tengjast skipum er útlistað í sér kafla <Badge text="TODO" style="background: orange !important"/>
+
+Í lögskráningakerfinu í dag eru tvenns konar mönnunarreglur skráðar á skip. Annars vegar almennar mönnunarreglur og hins vegar sérstakar mönnunarreglur [sérregla](#sérreglur). Skip sem ekki fellur að almennri mönnunarreglu fær skráða sérreglu, sem aðeins gildir fyrir það skip, sjá hér að neðan. 
+
+Í þessum kafla er fjallað um hina eiginlegu skráningu á mismunandi sniðmátum á mönnunarreglum sem síðan eru tengd við reglur.
+
+
+### Lágmarksmönnun
+| Staða      | Atvinnuréttindi  |
+| :----------- | :----------- |
+| Skipstjóri      | II/2 |
+| Yfirstýrimaður      | II/2 |
+| Annar stýrimaður     | II/1 |
+| Yfirvélstjóri      | III/2 |
+| Fyrsti vélstjóri     | III/1 |
+
+
+
+### Sérregla skips 
+<Badge text="Innri notandi" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 0 0"/>
+
+<!-- <Badge text="Innri notendur" style="background: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 0px 0"/> -->
+
+ `LÖGSKRÁNINGAR`  &rarr;   [Mönnun og sérreglur ](https://skutantest.samgongustofa.is/ships/2769/staffingRuleExemption)
+
+er þegar samþykkt hefur verið frávik frá þeirri mönnunarreglu sem lög og reglur mæla fyrir um sem og þegar Samgöngustofa úrskurðar um mönnun skips, hvort heldur tímabundið eða ótímabundið. Slíkar sérreglur eru að jafnaði háð tilteknum skilyrðum. Athugið að hér er átt við hvaða réttindi og stöður áhöfn þarf að uppfylla á viðkomandi skipi til þess að fullnægja skilyrðum laga. 
+
+Einnig eru til **undanþágur** en þá er átt við undanþágu sem veitt er til eins ákveðins einstaklings til að hann megi gegna ákveðinni stöðu um borð í tilteknu skipi í tiltekinn tíma. 
+
+
+### Undanþágur
+<Badge text="Innri notandi" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 0 0"/>
+
+<!-- <Badge text="Innri notendur" style="background: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 0px 0"/> -->
+
+ `LÖGSKRÁNINGAR`  &rarr;   [Undanþágur ](https://skutantest.samgongustofa.is/ships/20005/registrationExemption)
+
+Skráðar undanþágur til þess að gegna stöðu á skipi sem viðkomandi hefur ekki rétt til að gegna 
+
+Í undanþágu fellst að veita tilteknum einstaklingi heimild til þess að gegna stöðu sem hann hefur ekki réttindi til að gegna á tilteknu skipi í tiltekinn tíma. Undanþágan beinist að einstaklingnum og réttindum hans. 
+
+Það er útgerð skips sem sækir um undanþágu til að tiltekninn sjómaður megi gegna stöðu um borð
+
+Nánar er fjallað um skráningar undanþágu í kaflanum um lögskráningar (sjá kafla 5.4).
+
+Í þessari aðgerð er í upphafi birtar allar skáðar undanþágur fyrir viðkomandi skip, en hægt er að velja tímabil til að sía hvað er birt í listanum.
+ 
+Hægt er að velja ákveðna undanþágu til að skoða nánar eða skrá nýja ef viðkomandi hefur réttindi til þess.
+
+
+
 ## Atvinnuréttindi 
 
-(skírteini) eru veitt til sjómanna þegar ákveðnum skilyrðum er fullnægt. Bak við hver réttindi er mat (matsblað) þar sem tilgreint er hvað viðkomandi sjómaður þarf að klára áður en hann getur fengið viðkomandi réttindi. Þau atriði eru t.d. að viðkomandi hafi verið í tilgreindu námi og staðist próf, setið námskeið, hafa náð ákveðnum fjölda siglingartíma í ákveðinni stöðu, staðist læknisskoðun (vottorð veitt) o.s.frv.
+(skírteini sjómanna) eru veitt til sjómanna þegar ákveðnum skilyrðum er fullnægt. Bak við hver réttindi er mat (matsblað) þar sem tilgreint er hvað viðkomandi sjómaður þarf að klára áður en hann getur fengið viðkomandi réttindi. Þau atriði eru t.d. að viðkomandi hafi verið í tilgreindu námi og staðist próf, setið námskeið, hafa náð ákveðnum fjölda siglingartíma í ákveðinni stöðu, staðist læknisskoðun (vottorð veitt) o.s.frv.
+
+Mismunandi atvinnuréttindi krefjast mismunandi forkrafna, en þau eru öll af svipuðu meiði.
+
+- **Aldur sjómanns**  <br/>Reiknað út frá kennitölu sjómanns eða skráningu fæðingardags þegar um er að ræða erlendan sjóman. 
+
+- **Menntun** <br/>Sjómaður þarf að hafa klárað ákveðið nám. Sjá nánar tegundir menntunar í kafla 7.2.
+
+- **Siglingartími** <br/>Útreiknað út frá gögnum skráðum við lögskráningar í kerfinu.
+
+- **Námskeið** <br/> Sjómaður þarf að hafa klárað ákveðin námskeið. Sjá nánar tegundir námskeiða í kafla 7.2.
+
+- **Heilbrigðiskröfur** <br/>Sjómaður þarf að hafa staðist ákveðnar læknisskoðanir. Sjá nánar um læknisskoðanir í kafla 4.5.
+
 
 ::: details Nánar um atvinnuréttindi og útgáfu skírteina
 Þegar gefin eru út skírteini með atvinnuréttindum þarf að taka tillit til prófa, og prófgráða sjómanns, sem og siglingatíma og skiptir máli hvað stöðum sjómaður hefur gegnt, hve lengi, á hvaða stærð skips og á hvaða stærð aðalvélar. Einnig er krafa um að sjómaður hafi sótt ýmis námskeið til þess að fá útgefin fyrstu réttindi og síðan önnur námskeið við endurnýjun réttindi, til dæmis öryggisfræðslunámskeið. 
@@ -65,6 +143,28 @@ Atvinnuréttidi sem gefin eru út til samræmis við ákvæði STCW samþykktari
 :::
 
 
+
+::: tip Athugasemdir
+Raða skal eftir skírteinistegundum og tign innan skírteinistegunda. Tign vex með auknum réttindum, byrjar í 1 og endar í fjölda réttindaflokka fyrir viðkomandi skírteinistegund.
+:::
+
+
+### Réttindaflokkar
+| Kóti      | Réttindi  | Skírteini      | BRL        | Lýsing  |    
+| :-----------: | :----------- |:-----------: | ----------- |:----------- |
+| A.1       | Skipstjórn 30 BRL    | A     | <30    | Skipstjórn á skipum, 30 BRL eða minni, í innanlandssiglingum
+| A.1       | Atvinnuskírteini A          |     E   |      <30     |
+| A.1       | Skipstjóri      |     H   |           |
+| A.2       | Atvinnuskírteini A         |     E      |<80|
+| A.3       | Stýrimaður 200 BRL        |  A      |   <200        |
+
+
+### Atvinnuskírteini
+| Staða      | Réttindi  |
+| ----------- | ----------- |
+| Skipstjóri      | SK3000 |
+| Yfirstýrimaður   | First paragraph.  |
+
 ::: details Skráningaratriði
 - Kennitala sjómanns
 -	Skírteinistegund(val)
@@ -84,56 +184,41 @@ Atvinnuréttidi sem gefin eru út til samræmis við ákvæði STCW samþykktari
 :::
 
 
-## Sérreglur 
-er þegar samþykkt hefur verið frávik frá þeirri mönnunarreglu sem lög og reglur mæla fyrir um sem og þegar Samgöngustofa úrskurðar um mönnun skips, hvort heldur tímabundið eða ótímabundið. Slíkar sérreglur eru að jafnaði háð tilteknum skilyrðum. Athugið að hér er átt við hvaða réttindi og stöður áhöfn þarf að uppfylla á viðkomandi skipi til þess að fullnægja skilyrðum laga. 
-
-Einnig eru til **undanþágur** en þá er átt við undanþágu sem veitt er til eins ákveðins einstaklings til að hann megi gegna ákveðinni stöðu um borð í tilteknu skipi í tiltekinn tíma. 
 
 
 
-## Lágmarksmönnun skips
-| Réttindi      | Staða  |
-| ----------- | ----------- |
-| CB      | SK3000 |
-| CB      | SK3000 |
-| CB      | SK3000 |
-## Atvinnuskírteini
-| Staða      | Réttindi  |
-| ----------- | ----------- |
-| Skipstjóri      | SK3000 |
-| Yfirstýrimaður   | First paragraph.  |
-
-### Skipstjórnarréttindi
-### Vélstjórnarréttindi
-### Stýrimannaréttinid
-<!-- :::: code-group
-::: code-group-item FOO
-
-
-```c++
-
-|  Staða    | Réttindi  |
-|-----------|-----------|
-| Skipstjóri| SK3000    |
-
-```
-::: -->
-
-## Siglingartími
 
 
 
-## Sérreglur
+
+
 
 
 
 ## Sjómenn / eintaklingar
 
-### Atvinnuréttindi
+Hér gefur að líta síða þegar einstaklingur hefur verið valinn. 
+ `LEIT - KENNITALA`  &rarr;   `ALMENNT` 
+
+### Atvinnuskírteini
 Skráningu á atvinnuréttindum sjómanna í samræmi við ákvæði gildandi laga og reglugerða. Kerfið skal geta haldið utan um feril fyrir ný atvinnuréttindi og um endurnýjun atvinnuréttinda auk þess sem  kerfið skal halda utan um fyrri atvinnuréttindi sem veitt hafa verið einstaklinugum á liðnum árum, hvort heldur þau réttindi eru enn í gildi eða brottfallinn með breytingu á lögum.
 
-### Undanþágur
+### Próf, nám, námskeið og frestir
 Skráningu undanþága til þess að tiltekinn einstaklingur megi tímabundið gegna stöðu á tilteknu skipi sem hann hefur ekki réttindi til að gegna. Kerfið skal halda utan um skilyrði undanþágu.
+
+### Lögskráningar
+
+
+### Stöðuskráning
+
+### Annar siglingatími
+
+### Undanþága einstaklings
+Skráningu undanþága til þess að tiltekinn einstaklingur megi tímabundið gegna stöðu á tilteknu skipi sem hann hefur ekki réttindi til að gegna. Kerfið skal halda utan um skilyrði undanþágu.
+
+### Sjóferðabækur
+Lorem
+
 
 ### Áritanir
 Skráningu áritana erlendra ríkisborgara á atvinnuréttindi þeirra til staðfestingar um að þeir hafi heimild til þess að gegna tilteknum stöðum um borð í íslenskum skipum. Þessir erlendu ríkisborgarar geta verið með íslenska kennitölu en einnig  með „dummy“-kennitölu sakir þess að þeir starfa á íslenskum skipum sem gerð eru út af erlendum útgerðum. 
@@ -149,24 +234,6 @@ Kerfið skal hannað þannig að það kanni sjálft hvort skilyrði skírteinis
 
 Fulltrúar frá viðurkenndum skólum og/eða prófdómarar hafa aðgang að kerfinu þannig að þeir geti skráð inn í kerfið lok námskeiða, námsáfanga eða prófa.
 Fulltrúar hafa einungis heimild til að skrá inn prófgráðu, nám eða námskeið fyrir þann skóla sem þeir eru fulltrúar fyrir (sbr. kafli 9.3 um skráningu réttinda notenda). 
-
-
-<br/>Skráir sig inn með núverandi auðkenni sín hjá Samgöngustofu.
-
-
-
-
-
-<!-- ::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-::: -->
-
-
-
 
 
 

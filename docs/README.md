@@ -6,16 +6,18 @@ links: https://v2.vuepress.vuejs.org, https://v2.vuepress.vuejs.org/reference/pl
 hosting: https://pages.github.com, 
 ---
 
-# Almennt
+# Leiðbeiningar
 
-Velkomin í hjálpina fyrir Skútuna, nýju skipaskránna og lögskráningarkerfi Samgöngustofu.
+
+Velkomin í Skútu hjálpina, nýju skipaskrá og lögskráningarkerfi Samgöngustofu.
+
 Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.
 
 
-[Skútan](https://skutantest.samgongustofa.is/) 
+[HSkútan ](https://skutantest.samgongustofa.is/) 
 
 
-[3002 forsíða](http://127.0.0.1:5500/skutan/3002-mobile.html) 
+<!-- [3002 forsíða](http://127.0.0.1:5500/skutan/3002-mobile.html)  -->
 
 
 
@@ -24,7 +26,7 @@ Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni 
 
 <!-- relative path -->
 
-<Badge text="Innri notandi" style="background: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 10px"/>
+<Badge text="Innri notandi" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 10px"/>
 <br/>Skráir sig inn með núverandi auðkenni sín hjá Samgöngustofu.
 <br/>
 
@@ -64,8 +66,8 @@ Til að byrja að vinna með skip þarf að skrá skipaskrárnúmer í blámerkt
 
 Einnig er hægt er að sjá öll skip á skipaskrá með því að smella á Skip efst í stikunni og svo Skipaskrá úr valmynd.
 
-::: tip
-Allar aðgerðir og hlekkir í Skútunni eru bláir á lit
+::: tip Ábending
+Allar aðgerðir og hlekkir í Skútunni eru <span style="background: #486DB5; padding: 4px; border-radius: 4px; color: white">bláar</span> á lit.
 :::
 
 

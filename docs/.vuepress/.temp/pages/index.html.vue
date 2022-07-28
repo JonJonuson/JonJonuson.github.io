@@ -1,11 +1,11 @@
-<template><div><h1 id="almennt" tabindex="-1"><a class="header-anchor" href="#almennt" aria-hidden="true">#</a> Almennt</h1>
-<p>Velkomin í hjálpina fyrir Skútuna, nýju skipaskránna og lögskráningarkerfi Samgöngustofu.
-Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.</p>
-<p><a href="https://skutantest.samgongustofa.is/" target="_blank" rel="noopener noreferrer">Skútan<ExternalLinkIcon/></a></p>
-<p><a href="http://127.0.0.1:5500/skutan/3002-mobile.html" target="_blank" rel="noopener noreferrer">3002 forsíða<ExternalLinkIcon/></a></p>
+<template><div><h1 id="leiðbeiningar" tabindex="-1"><a class="header-anchor" href="#leiðbeiningar" aria-hidden="true">#</a> Leiðbeiningar</h1>
+<p>Velkomin í Skútu hjálpina, nýju skipaskrá og lögskráningarkerfi Samgöngustofu.</p>
+<p>Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.</p>
+<p><a href="https://skutantest.samgongustofa.is/" target="_blank" rel="noopener noreferrer">HSkútan <ExternalLinkIcon/></a></p>
+<!-- [3002 forsíða](http://127.0.0.1:5500/skutan/3002-mobile.html)  -->
 <h2 id="innskraning" tabindex="-1"><a class="header-anchor" href="#innskraning" aria-hidden="true">#</a> Innskráning</h2>
 <!-- relative path -->
-<Badge text="Innri notandi" style="background: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 10px"/>
+<Badge text="Innri notandi" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 10px"/>
 <br/>Skráir sig inn með núverandi auðkenni sín hjá Samgöngustofu.
 <br/>
 <!-- <Badge text="Ytri notandi" style="margin: 10px 0 -10px 0"/> -->
@@ -30,8 +30,8 @@ Ef íslykill er notaður er smellt er á hnappinn <code v-pre>SKRÁ INN MEÐ ÍS
 <p><img src="images/leit.png" alt="Leit að skipi"></p>
 <p>Til að byrja að vinna með skip þarf að skrá skipaskrárnúmer í blámerkta reitinn  á mynd 1.2 og smella á enter hnappinn á lyklaborðinu.</p>
 <p>Einnig er hægt er að sjá öll skip á skipaskrá með því að smella á Skip efst í stikunni og svo Skipaskrá úr valmynd.</p>
-<div class="custom-container tip"><p class="custom-container-title">TIP</p>
-<p>Allar aðgerðir og hlekkir í Skútunni eru bláir á lit</p>
+<div class="custom-container tip"><p class="custom-container-title">Ábending</p>
+<p>Allar aðgerðir og hlekkir í Skútunni eru <span style="background: #486DB5; padding: 4px; border-radius: 4px; color: white">bláar</span> á lit.</p>
 </div>
 <h2 id="timavelin" tabindex="-1"><a class="header-anchor" href="#timavelin" aria-hidden="true">#</a> Tímavélin</h2>
 <p>Áður en Skútan verður tekin í notkun haustið 2022 er mikilvægt að geta prófað hegðun kerfisins, m.a. gildistíma skírteina og skoðana og þar nýttum við okkur snilli hans Hannesar forritara til að smíða fyrir okkur tímavél – sýndartímavél.

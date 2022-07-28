@@ -88,7 +88,22 @@
 <h3 id="geymar-og-þurrymi" tabindex="-1"><a class="header-anchor" href="#geymar-og-þurrymi" aria-hidden="true">#</a> Geymar og þurrými</h3>
 <h2 id="tæknibunaður" tabindex="-1"><a class="header-anchor" href="#tæknibunaður" aria-hidden="true">#</a> Tæknibúnaður</h2>
 <h3 id="rafalar" tabindex="-1"><a class="header-anchor" href="#rafalar" aria-hidden="true">#</a> Rafalar</h3>
+<p>Skráning rafala. Þegar skráning hefur verið staðfest bætist rafali við lista yfir rafala skips. Með því að smella á rafala í listanum birtast upplýsingar um hann í skráningarsvæðunum.</p>
+<p>Skráningaratriði</p>
+<ul>
+<li>Vél (fellival með skráðum vélum viðkomandi skips).</li>
+<li>Framleiðslunúmer</li>
+<li>Framleiðandi</li>
+<li>Tegund</li>
+<li>Raunafl</li>
+<li>Árgerð</li>
+<li>Spenna</li>
+<li>Tíðni</li>
+<li>Tenging (val – Já/Nei)</li>
+<li>Athugasemd</li>
+</ul>
 <h3 id="oxlar-og-skrufur" tabindex="-1"><a class="header-anchor" href="#oxlar-og-skrufur" aria-hidden="true">#</a> Öxlar og skrúfur</h3>
+<p>Öxlar (og skrúfur) geta verið fleiri en einn á skipi. Öxlar og skrúfur eru birt í lista og með því að velja af listanum birtast skráningaratriði í skráningarsvæðum.</p>
 <h3 id="akkerisbunaður" tabindex="-1"><a class="header-anchor" href="#akkerisbunaður" aria-hidden="true">#</a> Akkerisbúnaður</h3>
 <h3 id="þilfarskranar" tabindex="-1"><a class="header-anchor" href="#þilfarskranar" aria-hidden="true">#</a> Þilfarskranar</h3>
 </div></template>

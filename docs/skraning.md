@@ -69,8 +69,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Tæknibúnaður
 
 ### Rafalar
+Skráning rafala. Þegar skráning hefur verið staðfest bætist rafali við lista yfir rafala skips. Með því að smella á rafala í listanum birtast upplýsingar um hann í skráningarsvæðunum.
+
+Skráningaratriði
+- Vél (fellival með skráðum vélum viðkomandi skips).
+-	Framleiðslunúmer
+-	Framleiðandi
+-	Tegund
+-	Raunafl
+-	Árgerð
+-	Spenna
+-	Tíðni
+-	Tenging (val – Já/Nei)
+-	Athugasemd
+
 
 ### Öxlar og skrúfur
+Öxlar (og skrúfur) geta verið fleiri en einn á skipi. Öxlar og skrúfur eru birt í lista og með því að velja af listanum birtast skráningaratriði í skráningarsvæðum.
+
 
 ### Akkerisbúnaður
 

@@ -49,10 +49,10 @@ Ef skoðanir eru ekki framkvæmdar innan skoðunarglugga þá fellur viðkomand
 Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu skipi, miðað stöðu í skipaskrá, er eins og hér segir:</p>
 <details class="custom-container details"><summary>Orðskýringar</summary>
 <p><strong>Skoðunarhringur</strong>, er ýmist 4 ára (t.d. fyrir fiskiskip og önnur skip) eða 5 ára (farþegaskip, SOLAS skip, MARPOL skip, LL skip).</p>
-<p>Upphaf skoðunarhrings, er þegar skoðunarhringur byrjar og allar skoðanir eru framkvæmdar.  Ef skip fær útgefið öryggisskírteini (skip yfir 15 m), þá skal öryggisskírteinið útgefið þegar skoðunum er lokið í upphafi skoðunarhings.  Gildistími öryggisskírteinis kallast afmælis dagsetning.</p>
-<p><b>Lok skoðunarhrings</b>, er þegar núverandi skoðunarhring lýkur og nýr skoðunarhringur byrjar.  Öryggisskírteinið rennur þá út og því þarf að framkvæma allar skoðanir.</p>
-<p><b>Afmælisdagsetning</b>, er dagsetningin þegar skoðunarhring lýkur og er gildisdagsetningin á öryggisskírteininu.</p>
-<p><b>Skoðunargluggi</b>, er venjulegast +/-3 mánuðir (nema þegar komið er í lokin á skoðunarhring) og er það svigrúm sem útgerð hefur til að láta framkvæma skoðanir.  Þetta þýðir að venjulegast hefur útgerð 6 mánaða glugga til að framkvæma skoðun.</p>
+<p><strong>Upphaf skoðunarhrings</strong>, er þegar skoðunarhringur byrjar og allar skoðanir eru framkvæmdar.  Ef skip fær útgefið öryggisskírteini (skip yfir 15 m), þá skal öryggisskírteinið útgefið þegar skoðunum er lokið í upphafi skoðunarhings.  Gildistími öryggisskírteinis kallast afmælis dagsetning.</p>
+<p><strong>Lok skoðunarhrings</strong>, er þegar núverandi skoðunarhring lýkur og nýr skoðunarhringur byrjar.  Öryggisskírteinið rennur þá út og því þarf að framkvæma allar skoðanir.</p>
+<p><strong>Afmælisdagsetning</strong>, er dagsetningin þegar skoðunarhring lýkur og er gildisdagsetningin á öryggisskírteininu.</p>
+<p><strong>Skoðunargluggi&lt;</strong>, er venjulegast +/-3 mánuðir (nema þegar komið er í lokin á skoðunarhring) og er það svigrúm sem útgerð hefur til að láta framkvæma skoðanir.  Þetta þýðir að venjulegast hefur útgerð 6 mánaða glugga til að framkvæma skoðun.</p>
 </details>
 <h2 id="heildarlisti-skoðana" tabindex="-1"><a class="header-anchor" href="#heildarlisti-skoðana" aria-hidden="true">#</a> Heildarlisti skoðana</h2>
 <p>Birtir samantekt yfir allar skoðanir á völdu skipi þ.e. listi yfir stöðu allra síðustu skoðana sem framkvæmdar hafa verið, óháð því hvort þær eru í gildi eða ekki.  Í þessum lista koma einnig skoðunaratriði innan hverrar skoðunar sem eru með athugasemdir (dæmingar) eða dagsetningar.</p>
@@ -87,17 +87,17 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 </tbody>
 </table>
 <h2 id="skra-skoðun" tabindex="-1"><a class="header-anchor" href="#skra-skoðun" aria-hidden="true">#</a> Skrá skoðun</h2>
-<p>Í þessum kafla er fyrirkomulagi við innfærslu á skoðunarskýrslum í Skútunni og hverjar eru helstu breytingar m.v. gömlu skipaskránna. Útskýrum aðferðir og virkni í kerfinu með 3 dæmum;</p>
+<p>Hér verður farið yfir hvernig niðurstöður skoðanna skulu færðar í skoðunarskýrslum í Skútunni og hverjar helstu breytingar eru m.v. gömlu skipaskránna. Útskýrum aðferðir og virkni í kerfinu með 3 dæmum;</p>
 <ul>
 <li><strong>skemmtibátur ﹤15m</strong></li>
 <li><strong>farþegabátur ﹤15m</strong></li>
 <li><strong>fiskiskip ≥ 24m</strong></li>
 </ul>
 <div class="custom-container tip"><p class="custom-container-title">Ábending</p>
-<p>Bendum á að það eru tvær meginleiðir fyrir skoðunaraðila til skráningar á skoðunum.</p>
+<p>Bendum á að það eru tvær <strong>ríkisleiðir</strong> fyrir skoðunaraðila til skráningar á skoðunum.</p>
 <ul>
-<li><strong>Leið 1</strong> er reglubundin skoðun valin og skoðunarskýrslan skráð</li>
-<li><strong>Leið 2</strong> þar sem skoðanir eru hengdar á skírteini og skoðunarhringurinn birtist.</li>
+<li><strong>Leið 1</strong> Reglubundin skoðun valin og skoðunarskýrslan skráð</li>
+<li><strong>Leið 2</strong> Skoðunarhringurinn - allar skoðanir eru hengdar á skírteini.</li>
 </ul>
 </div>
 <h3 id="skemmtibataskoðun" tabindex="-1"><a class="header-anchor" href="#skemmtibataskoðun" aria-hidden="true">#</a> Skemmtibátaskoðun</h3>
@@ -157,9 +157,12 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 <h2 id="yfirlit-yfir-stoðu-skoðana" tabindex="-1"><a class="header-anchor" href="#yfirlit-yfir-stoðu-skoðana" aria-hidden="true">#</a> Yfirlit yfir stöðu skoðana</h2>
 <h2 id="eldri-skoðanir" tabindex="-1"><a class="header-anchor" href="#eldri-skoðanir" aria-hidden="true">#</a> Eldri skoðanir</h2>
 <!-- relative path -->
-<p><RouterLink to="/">Home</RouterLink><br>
-<RouterLink to="/reference/config.html">Config Reference</RouterLink><br>
-<RouterLink to="/getting-started.html">Getting Started</RouterLink></p>
-<p>Because VuePress applications are server-rendered in Node.js when generating static builds, any Vue usage must conform to the <a href="https://ssr.vuejs.org/en/universal.html" target="_blank" rel="noopener noreferrer">universal code requirements<ExternalLinkIcon/></a>. In short, make sure to only access Browser / DOM APIs in <code v-pre>beforeMount</code> or <code v-pre>mounted</code> hooks.</p>
-<p>If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in <code v-pre>&lt;ClientOnly&gt;</code> component:</p>
+<!-- [Home](../README.md)  
+[Config Reference](../reference/config.md)  
+[Getting Started](./getting-started.md)  
+
+
+Because VuePress applications are server-rendered in Node.js when generating static builds, any Vue usage must conform to the [universal code requirements](https://ssr.vuejs.org/en/universal.html). In short, make sure to only access Browser / DOM APIs in `beforeMount` or `mounted` hooks.
+
+If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in `<ClientOnly>` component: -->
 </div></template>

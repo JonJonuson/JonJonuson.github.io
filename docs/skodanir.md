@@ -74,13 +74,13 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 ::: details Orðskýringar
 **Skoðunarhringur**, er ýmist 4 ára (t.d. fyrir fiskiskip og önnur skip) eða 5 ára (farþegaskip, SOLAS skip, MARPOL skip, LL skip).  
 
-Upphaf skoðunarhrings, er þegar skoðunarhringur byrjar og allar skoðanir eru framkvæmdar.  Ef skip fær útgefið öryggisskírteini (skip yfir 15 m), þá skal öryggisskírteinið útgefið þegar skoðunum er lokið í upphafi skoðunarhings.  Gildistími öryggisskírteinis kallast afmælis dagsetning.
+**Upphaf skoðunarhrings**, er þegar skoðunarhringur byrjar og allar skoðanir eru framkvæmdar.  Ef skip fær útgefið öryggisskírteini (skip yfir 15 m), þá skal öryggisskírteinið útgefið þegar skoðunum er lokið í upphafi skoðunarhings.  Gildistími öryggisskírteinis kallast afmælis dagsetning.
 
-<b>Lok skoðunarhrings</b>, er þegar núverandi skoðunarhring lýkur og nýr skoðunarhringur byrjar.  Öryggisskírteinið rennur þá út og því þarf að framkvæma allar skoðanir. 
+**Lok skoðunarhrings**, er þegar núverandi skoðunarhring lýkur og nýr skoðunarhringur byrjar.  Öryggisskírteinið rennur þá út og því þarf að framkvæma allar skoðanir. 
 
-<b>Afmælisdagsetning</b>, er dagsetningin þegar skoðunarhring lýkur og er gildisdagsetningin á öryggisskírteininu.
+**Afmælisdagsetning**, er dagsetningin þegar skoðunarhring lýkur og er gildisdagsetningin á öryggisskírteininu.
 
-<b>Skoðunargluggi</b>, er venjulegast +/-3 mánuðir (nema þegar komið er í lokin á skoðunarhring) og er það svigrúm sem útgerð hefur til að láta framkvæma skoðanir.  Þetta þýðir að venjulegast hefur útgerð 6 mánaða glugga til að framkvæma skoðun.
+**Skoðunargluggi<**, er venjulegast +/-3 mánuðir (nema þegar komið er í lokin á skoðunarhring) og er það svigrúm sem útgerð hefur til að láta framkvæma skoðanir.  Þetta þýðir að venjulegast hefur útgerð 6 mánaða glugga til að framkvæma skoðun.
 ::: 
 
 
@@ -110,16 +110,16 @@ Skoðanir sem styttist í að renni út (e. Due) eða eru útrunnar (e. Over due
 
 
 ## Skrá skoðun
-Í þessum kafla er fyrirkomulagi við innfærslu á skoðunarskýrslum í Skútunni og hverjar eru helstu breytingar m.v. gömlu skipaskránna. Útskýrum aðferðir og virkni í kerfinu með 3 dæmum;
+Hér verður farið yfir hvernig niðurstöður skoðanna skulu færðar í skoðunarskýrslum í Skútunni og hverjar helstu breytingar eru m.v. gömlu skipaskránna. Útskýrum aðferðir og virkni í kerfinu með 3 dæmum;
 - **skemmtibátur ﹤15m**
 - **farþegabátur ﹤15m**
 - **fiskiskip ≥ 24m**
 
 ::: tip Ábending
-Bendum á að það eru tvær meginleiðir fyrir skoðunaraðila til skráningar á skoðunum.
+Bendum á að það eru tvær **ríkisleiðir** fyrir skoðunaraðila til skráningar á skoðunum.
 
-- **Leið 1** er reglubundin skoðun valin og skoðunarskýrslan skráð
-- **Leið 2** þar sem skoðanir eru hengdar á skírteini og skoðunarhringurinn birtist.
+- **Leið 1** Reglubundin skoðun valin og skoðunarskýrslan skráð
+- **Leið 2** Skoðunarhringurinn - allar skoðanir eru hengdar á skírteini.
 :::
 
 
@@ -187,14 +187,14 @@ Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipa
 
 
 <!-- relative path -->
-[Home](../README.md)  
+<!-- [Home](../README.md)  
 [Config Reference](../reference/config.md)  
 [Getting Started](./getting-started.md)  
 
 
 Because VuePress applications are server-rendered in Node.js when generating static builds, any Vue usage must conform to the [universal code requirements](https://ssr.vuejs.org/en/universal.html). In short, make sure to only access Browser / DOM APIs in `beforeMount` or `mounted` hooks.
 
-If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in `<ClientOnly>` component:
+If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in `<ClientOnly>` component: -->
 
 
 
