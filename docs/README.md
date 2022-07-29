@@ -54,13 +54,13 @@ Við fyrstu innskráningu birtist gluggi með persónuverndaryfirlýsingu sem no
 
 
 ## Forsíða Skútunnar
-![Síða eftir innskráningu](images/fp.png)
+![Síða eftir innskráningu](/images/fp.png)
 
 Á myndinni sést hvar  [tímavélin](README.md#tímavélin) er staðsett í stikunni efst til vinstri. Til þess að vinna með skip er skipaskrárnúmer slegið inn í reitinn hægra megi.
 
 
 ## Leit að skipi
-![Leit að skipi](images/leit.png)
+![Leit að skipi](/images/leit.png)
 
 Til að byrja að vinna með skip þarf að skrá skipaskrárnúmer í blámerkta reitinn  á mynd 1.2 og smella á enter hnappinn á lyklaborðinu.
 
@@ -79,7 +79,7 @@ Allar aðgerðir og hlekkir í Skútunni eru <span style="background: #486DB5; p
 
 |  Tímavélin    | Val með músinni  | Val með músinni  |
 |-----------|-----------|-----------|
-| ![](images/timavel.png)  | ![](images/timavel-2.png)   |  ![](images/timavel-2.png)   |
+| ![](/images/timavel.png)  | ![](/images/timavel-2.png)   |  ![](/images/timavel-2.png)   |
 
 ::: tip Ábending
 Hægt er að skrá dagsetningu beint inn í reitinn eða með að smella með músinni á dagsetningu. Ef fara þarf langt fram eða aftur í tímann má smella efst í dagatalinu þar sem mánuður og ár birtist (sjá myndir hér að ofan).
@@ -90,16 +90,16 @@ Hægt er að skrá dagsetningu beint inn í reitinn eða með að smella með m�
 
 Fyrir allar töflur sem birtast í Skútunni gildir að hægt er sía niðurstöðurnar með því að;
 - skrá leitarstreng í leitarglugganum (sem staðsettur er hægra megin fyrir ofan töfluna) 
-![Síur í töflum](images/filter-table.png)
+![Síur í töflum](/images/filter-table.png)
 - Í tilvikum þar sem örvar birtast í heiti dálka má smella á dálkinn og raða þannig í hækkandi eða lækkandi röð.
-![Síur í töflum](images/filter.png)
+![Síur í töflum](/images/filter.png)
 
 - Ef það eru fleiri en 50 raðir í töflunni þarf að fletta á milli síðna (e. pagination) eða stilla fjölda sem birtist sem  
 
 ### Óvirkar færslur
 Þegar hakað er við Sýna óvirkar færslur birtast eldri skráningar (sem eru ekki lengur virkar) og má þannig nálgast sögu tiltekins skráningaratriðis - í þessu dæmi birtast þannig allar eldri skráningar kennimerkis skips.
 
-![Óvirkar færslur](images/ovirkar.png)
+![Óvirkar færslur](/images/ovirkar.png)
 
 
 

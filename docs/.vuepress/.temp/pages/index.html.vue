@@ -25,10 +25,10 @@ Ef íslykill er notaður er smellt er á hnappinn <code v-pre>SKRÁ INN MEÐ ÍS
 <h3 id="personuverndaryfirlysing" tabindex="-1"><a class="header-anchor" href="#personuverndaryfirlysing" aria-hidden="true">#</a> Persónuverndaryfirlýsing</h3>
 <p>Við fyrstu innskráningu birtist gluggi með persónuverndaryfirlýsingu sem notandi þarf að samþykkja áður en hægt er að nota kerfið.</p>
 <h2 id="forsiða-skutunnar" tabindex="-1"><a class="header-anchor" href="#forsiða-skutunnar" aria-hidden="true">#</a> Forsíða Skútunnar</h2>
-<p><img src="images/fp.png" alt="Síða eftir innskráningu"></p>
+<p><img src="/images/fp.png" alt="Síða eftir innskráningu"></p>
 <p>Á myndinni sést hvar  <RouterLink to="/#t%C3%ADmav%C3%A9lin">tímavélin</RouterLink> er staðsett í stikunni efst til vinstri. Til þess að vinna með skip er skipaskrárnúmer slegið inn í reitinn hægra megi.</p>
 <h2 id="leit-að-skipi" tabindex="-1"><a class="header-anchor" href="#leit-að-skipi" aria-hidden="true">#</a> Leit að skipi</h2>
-<p><img src="images/leit.png" alt="Leit að skipi"></p>
+<p><img src="/images/leit.png" alt="Leit að skipi"></p>
 <p>Til að byrja að vinna með skip þarf að skrá skipaskrárnúmer í blámerkta reitinn  á mynd 1.2 og smella á enter hnappinn á lyklaborðinu.</p>
 <p>Einnig er hægt er að sjá öll skip á skipaskrá með því að smella á Skip efst í stikunni og svo Skipaskrá úr valmynd.</p>
 <div class="custom-container tip"><p class="custom-container-title">Ábending</p>
@@ -47,9 +47,9 @@ Ef íslykill er notaður er smellt er á hnappinn <code v-pre>SKRÁ INN MEÐ ÍS
 </thead>
 <tbody>
 <tr>
-<td><img src="images/timavel.png" alt=""></td>
-<td><img src="images/timavel-2.png" alt=""></td>
-<td><img src="images/timavel-2.png" alt=""></td>
+<td><img src="/images/timavel.png" alt=""></td>
+<td><img src="/images/timavel-2.png" alt=""></td>
+<td><img src="/images/timavel-2.png" alt=""></td>
 </tr>
 </tbody>
 </table>
@@ -61,11 +61,11 @@ Ef íslykill er notaður er smellt er á hnappinn <code v-pre>SKRÁ INN MEÐ ÍS
 <ul>
 <li>
 <p>skrá leitarstreng í leitarglugganum (sem staðsettur er hægra megin fyrir ofan töfluna)
-<img src="images/filter-table.png" alt="Síur í töflum"></p>
+<img src="/images/filter-table.png" alt="Síur í töflum"></p>
 </li>
 <li>
 <p>Í tilvikum þar sem örvar birtast í heiti dálka má smella á dálkinn og raða þannig í hækkandi eða lækkandi röð.
-<img src="images/filter.png" alt="Síur í töflum"></p>
+<img src="/images/filter.png" alt="Síur í töflum"></p>
 </li>
 <li>
 <p>Ef það eru fleiri en 50 raðir í töflunni þarf að fletta á milli síðna (e. pagination) eða stilla fjölda sem birtist sem</p>
@@ -73,7 +73,7 @@ Ef íslykill er notaður er smellt er á hnappinn <code v-pre>SKRÁ INN MEÐ ÍS
 </ul>
 <h3 id="ovirkar-færslur" tabindex="-1"><a class="header-anchor" href="#ovirkar-færslur" aria-hidden="true">#</a> Óvirkar færslur</h3>
 <p>Þegar hakað er við Sýna óvirkar færslur birtast eldri skráningar (sem eru ekki lengur virkar) og má þannig nálgast sögu tiltekins skráningaratriðis - í þessu dæmi birtast þannig allar eldri skráningar kennimerkis skips.</p>
-<p><img src="images/ovirkar.png" alt="Óvirkar færslur"></p>
+<p><img src="/images/ovirkar.png" alt="Óvirkar færslur"></p>
 <h2 id="innslattareitir-e-form" tabindex="-1"><a class="header-anchor" href="#innslattareitir-e-form" aria-hidden="true">#</a> Innsláttareitir (e. form)</h2>
 <p>Ef reitur er <Badge text="*"/> merktur verður notandinn að skrá gögn í reitinn áður en hægt er að vista formið.</p>
 </div></template>

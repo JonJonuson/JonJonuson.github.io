@@ -70,62 +70,51 @@ export const searchIndex = [
         "level": 2,
         "title": "Mönnunarreglur",
         "slug": "monnunarreglur",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Atvinnuréttindi",
-        "slug": "atvinnurettindi",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Sérreglur",
-        "slug": "serreglur",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Lágmarksmönnun skips",
-        "slug": "lagmarksmonnun-skips",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Atvinnuskírteini",
-        "slug": "atvinnuskirteini",
         "children": [
           {
             "level": 3,
-            "title": "Skipstjórnarréttindi",
-            "slug": "skipstjornarrettindi",
+            "title": "Lágmarksmönnun",
+            "slug": "lagmarksmonnun",
             "children": []
           },
           {
             "level": 3,
-            "title": "Vélstjórnarréttindi",
-            "slug": "velstjornarrettindi",
+            "title": "Sérregla skips",
+            "slug": "serregla-skips",
             "children": []
           },
           {
             "level": 3,
-            "title": "Stýrimannaréttinid",
-            "slug": "styrimannarettinid",
+            "title": "Undanþágur",
+            "slug": "undanþagur",
             "children": []
           }
         ]
       },
       {
         "level": 2,
-        "title": "Siglingartími",
-        "slug": "siglingartimi",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Sérreglur",
-        "slug": "serreglur-1",
-        "children": []
+        "title": "Atvinnuréttindi",
+        "slug": "atvinnurettindi",
+        "children": [
+          {
+            "level": 3,
+            "title": "Réttindaflokkar",
+            "slug": "rettindaflokkar",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Samsettar stöður",
+            "slug": "samsettar-stoður",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Atvinnuskírteini",
+            "slug": "atvinnuskirteini",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -134,14 +123,44 @@ export const searchIndex = [
         "children": [
           {
             "level": 3,
-            "title": "Atvinnuréttindi",
-            "slug": "atvinnurettindi-1",
+            "title": "Atvinnuskírteini",
+            "slug": "atvinnuskirteini-1",
             "children": []
           },
           {
             "level": 3,
-            "title": "Undanþágur",
-            "slug": "undanþagur",
+            "title": "Próf, nám, námskeið og frestir",
+            "slug": "prof-nam-namskeið-og-frestir",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Lögskráningar",
+            "slug": "logskraningar",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Stöðuskráning",
+            "slug": "stoðuskraning",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Annar siglingatími",
+            "slug": "annar-siglingatimi",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Undanþága einstaklings",
+            "slug": "undanþaga-einstaklings",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Sjóferðabækur",
+            "slug": "sjoferðabækur",
             "children": []
           },
           {
@@ -155,7 +174,7 @@ export const searchIndex = [
       {
         "level": 2,
         "title": "Próf, nám, námskeið og frestir",
-        "slug": "prof-nam-namskeið-og-frestir",
+        "slug": "prof-nam-namskeið-og-frestir-1",
         "children": []
       }
     ],
@@ -165,7 +184,38 @@ export const searchIndex = [
   },
   {
     "title": "Öryggisbúnaður",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "Björgunarför",
+        "slug": "bjorgunarfor",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Fjarskiptabúnaður",
+        "slug": "fjarskiptabunaður",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Björgunarbúningar",
+        "slug": "bjorgunarbuningar",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Akkerisbúnaður, dráttartóg og landfestar",
+        "slug": "akkerisbunaður-drattartog-og-landfestar",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Eldvarnar- og slökkvibúnaður",
+        "slug": "eldvarnar-og-slokkvibunaður",
+        "children": []
+      }
+    ],
     "path": "/oryggis.html",
     "pathLocale": "/",
     "extraFields": []
@@ -295,6 +345,18 @@ export const searchIndex = [
           },
           {
             "level": 3,
+            "title": "Aukaskoðun",
+            "slug": "aukaskoðun",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tækniskoðun",
+            "slug": "tækniskoðun",
+            "children": []
+          },
+          {
+            "level": 3,
             "title": "Fiskiskip >24m",
             "slug": "fiskiskip-24m",
             "children": []
@@ -374,13 +436,14 @@ export const searchIndex = [
         "level": 2,
         "title": "Tryggingar",
         "slug": "tryggingar",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Eigindi skips",
-        "slug": "eigindi-skips",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "Tegundir trygginga",
+            "slug": "tegundir-trygginga",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -422,6 +485,12 @@ export const searchIndex = [
             "level": 3,
             "title": "Öxlar og skrúfur",
             "slug": "oxlar-og-skrufur",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Hældrif / utanborðsmótor",
+            "slug": "hældrif-utanborðsmotor",
             "children": []
           },
           {
@@ -490,16 +559,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

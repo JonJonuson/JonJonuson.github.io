@@ -9,7 +9,7 @@
 <p>Með regluverðinum <code v-pre>(e.rulefinder)</code> má á einfaldan hátt sjá þau skírteini sem skip af ákveðinni stærð og gerð þarf að að fá útgefin og þær skoðanir sem skipið þarf að standast til að fá útgefið haffærisskírteini. Þannig er hægt að nota regluvörðinn til að finna viðeigandi skírteini sem þarf að gefa út fyrir viðkomandi skip skv. lögum og reglugerðum.</p>
 <br/>
 <!-- ![Regluvörður](images/rulefinder.svg) -->
-<img src="images/rulefinder.svg" style="display: block; width: 70% ; margin: 0 auto"/>
+<img src="/images/rulefinder.svg" style="display: block; width: 70% ; margin: 0 auto"/>
 <p>Það má líta svo á að regluvörðurinn sé hjarta Skútunnar og stærsta breytingin m.v. gömlu skipaskránna, þ.e nú hanga allar skoðanir á ákveðnum skírteinum … blabla og mun auðvelda til muna allt utanumhald um útgáfu skírteina og einnig hentugt tól til glöggvunar ...</p>
 <h3 id="virknin" tabindex="-1"><a class="header-anchor" href="#virknin" aria-hidden="true">#</a> Virknin</h3>
 <p><code v-pre>SKÍRTEINI</code>  →   <RouterLink to="/https:/skutantest.samgongustofa.is/">Regluvörður</RouterLink></p>
@@ -22,8 +22,8 @@
 </thead>
 <tbody>
 <tr>
-<td><img src="images/certs/reglu-1.png" alt=""></td>
-<td><img src="images/certs/reglu-2.png" alt=""></td>
+<td><img src="/images/certs/reglu-1.png" alt=""></td>
+<td><img src="/images/certs/reglu-2.png" alt=""></td>
 </tr>
 </tbody>
 </table>
@@ -55,8 +55,8 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 </thead>
 <tbody>
 <tr>
-<td><img src="images/certs/shiptype-1.png" alt=""></td>
-<td><img src="images/certs/shiptype-1.png" alt=""></td>
+<td><img src="/images/certs/shiptype-1.png" alt=""></td>
+<td><img src="/images/certs/shiptype-1.png" alt=""></td>
 </tr>
 </tbody>
 </table>
@@ -69,7 +69,7 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 <h3 id="nauðsynleg-skirteini" tabindex="-1"><a class="header-anchor" href="#nauðsynleg-skirteini" aria-hidden="true">#</a> Nauðsynleg skírteini</h3>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>2.2 ÚTGÁFA SKÍRTEINA</code></p>
 <p>Í töflu nauðsynlegra skírteina birtast þau skírteini sem ákvarðast út frá eingindum skips í gegnum regluvörðinn. Þessi gildi sjást í smáa letrinu fyrir neðan töfluna.</p>
-<p><img src="images/certs/certs-naudsyn.png" alt="Nauðsynleg skírteini skips"></p>
+<p><img src="/images/certs/certs-naudsyn.png" alt="Nauðsynleg skírteini skips"></p>
 <!-- ![alt text](images/boats.jpg) -->
 <Badge text="Innri notendur" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; "/>
 <p>Ef hnappurinn <code v-pre>STOFNA SKÍRTEINI</code> birtist fyrir framan heiti skírteinis þýðir það að ekki er búið að ákvarða afmælisdagsetningu skírteinisins í Skútunni.
@@ -106,7 +106,7 @@ Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi 
 <div style="margin-top: 50px"></div>
 <h2 id="framlenging-skirteina" tabindex="-1"><a class="header-anchor" href="#framlenging-skirteina" aria-hidden="true">#</a> Framlenging skírteina <Badge text="INNRI"/></h2>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>2.3 YFIRLIT YFIR ÚTGEFIN SKÍRTEINI</code> →   <code v-pre>Edit hnappur</code></p>
-<img src="images/certs/certs-extend.png" style="width: 70% ; margin: 20px auto"/>
+<img src="/images/certs/certs-extend.png" style="width: 70% ; margin: 20px auto"/>
 <!-- ![Framlenging skírteina](images/certs/certs-extend.png)  -->
 <div style="margin-top: 50px"></div>
 <h2 id="farþegaleyfi" tabindex="-1"><a class="header-anchor" href="#farþegaleyfi" aria-hidden="true">#</a> Farþegaleyfi</h2>

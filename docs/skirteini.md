@@ -22,7 +22,7 @@ Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini
 <br/>
 
 <!-- ![Regluvörður](images/rulefinder.svg) -->
-<img src="images/rulefinder.svg" style="display: block; width: 70% ; margin: 0 auto"/>
+<img src="/images/rulefinder.svg" style="display: block; width: 70% ; margin: 0 auto"/>
 
 Það má líta svo á að regluvörðurinn sé hjarta Skútunnar og stærsta breytingin m.v. gömlu skipaskránna, þ.e nú hanga allar skoðanir á ákveðnum skírteinum … blabla og mun auðvelda til muna allt utanumhald um útgáfu skírteina og einnig hentugt tól til glöggvunar ...
 
@@ -33,7 +33,7 @@ Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini
 
 |  Eigindi skips    | Reglugerðir, skírteini og skoðanir |
 |-----------|-----------|
-| ![](images/certs/reglu-1.png)| ![](images/certs/reglu-2.png)   |
+| ![](/images/certs/reglu-1.png)| ![](/images/certs/reglu-2.png)   |
 
 Á myndinni hér að ofan birtast lög og reglugerðir fyrir valið skip (þ.e. ef skipaskrárnúmer hefur verið valið).
 
@@ -57,7 +57,7 @@ Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðleg
 
 |      |  | 
 |-----------|-----------|
-| ![](images/certs/shiptype-1.png)  | ![](images/certs/shiptype-1.png)   |
+| ![](/images/certs/shiptype-1.png)  | ![](/images/certs/shiptype-1.png)   |
 
 
 ## Útgáfa skírteina
@@ -80,7 +80,7 @@ Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðleg
 
 Í töflu nauðsynlegra skírteina birtast þau skírteini sem ákvarðast út frá eingindum skips í gegnum regluvörðinn. Þessi gildi sjást í smáa letrinu fyrir neðan töfluna.
 
-![Nauðsynleg skírteini skips](images/certs/certs-naudsyn.png)
+![Nauðsynleg skírteini skips](/images/certs/certs-naudsyn.png)
 
 <!-- ![alt text](images/boats.jpg) -->
 
@@ -150,7 +150,7 @@ Heiti skírteinis sem hlaðið er niður er myndað þannig;
  `SKÍRTEINI OG LEYFI`  &rarr;   `2.3 YFIRLIT YFIR ÚTGEFIN SKÍRTEINI` &rarr;   `Edit hnappur` 
 
 
-<img src="images/certs/certs-extend.png" style="width: 70% ; margin: 20px auto"/>
+<img src="/images/certs/certs-extend.png" style="width: 70% ; margin: 20px auto"/>
 
 <!-- ![Framlenging skírteina](images/certs/certs-extend.png)  -->
 

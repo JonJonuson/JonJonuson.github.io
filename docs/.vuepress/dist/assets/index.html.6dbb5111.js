@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as n,a as e,d as t}from"./app.f265c9c6.js";const s={},c=e("h1",{id:"grunnskrar",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#grunnskrar","aria-hidden":"true"},"#"),t(" Grunnskr\xE1r")],-1),o=[c];function d(_,i){return a(),n("div",null,o)}var l=r(s,[["render",d],["__file","index.html.vue"]]);export{l as default};

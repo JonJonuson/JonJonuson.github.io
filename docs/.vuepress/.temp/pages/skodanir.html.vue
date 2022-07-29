@@ -36,7 +36,7 @@ Ef skoðanir eru ekki framkvæmdar innan skoðunarglugga þá fellur viðkomand
 </details>
 <h3 id="skoðunarhringur" tabindex="-1"><a class="header-anchor" href="#skoðunarhringur" aria-hidden="true">#</a> Skoðunarhringur</h3>
 <p>Tökum dæmi með stálskip, 12 ára eða eldra, sem líkur öllum skoðunum 1.1.2020, sem er upphaf á nýjum skoðunarhring.  Afmælisdagsetning skoðunarhringsins er 1.1. og lýkur skoðunarhringnum 2024.</p>
-<p><img src="images/inspection/1.png" alt="Nauðsynleg skírteini skips"></p>
+<p><img src="/images/inspection/1.png" alt="Nauðsynleg skírteini skips"></p>
 <p>Skoðanir sem skal framkvæma eiga því að fara fram ár hvert miðað við afmælisdagsetningu skoðunarhringsins, sem er 1.1. (1. janúar).  Svigrúmið til að framkvæma skoðun (skoðunargluggi) er venjulega +/-3 mánuðir, sem þýðir að skoðanir eiga að fara fram í mánuðum nr. 9 til 15 á öðru ári í skoðunarhringnum (sjá dálkinn fyrir árið 2021 í töflunni).  Í þessu tilviki mega skoðanir hefjast 1.9.2020 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2021 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
 <p>Samkvæmt töflunni skal einungis búnaður og fjarskiptabúnaður skoðast á öðru ári í skoðunarhringum (sjá dálk fyrir árið 2021).</p>
 <p>Á öðru ári í skoðunarhringnum skal skoða búnað, fjarskiptabúnað, bol, vélbúnað og rafmagn  innan +/-3 mánaða miðað við afmælisdagsetningu skoðunarhringsins, þ.e. í mánuðum nr. 21 til 27 í skoðunarhring. Í þessu tilviki mega skoðanir hefjast 1.9.2021 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2022 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
@@ -57,9 +57,9 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 </details>
 <h2 id="heildarlisti-skoðana" tabindex="-1"><a class="header-anchor" href="#heildarlisti-skoðana" aria-hidden="true">#</a> Heildarlisti skoðana</h2>
 <p>Birtir samantekt yfir allar skoðanir á völdu skipi þ.e. listi yfir stöðu allra síðustu skoðana sem framkvæmdar hafa verið, óháð því hvort þær eru í gildi eða ekki.  Í þessum lista koma einnig skoðunaratriði innan hverrar skoðunar sem eru með athugasemdir (dæmingar) eða dagsetningar.</p>
-<p><img src="images/certs/cert-oryggis.svg" alt="Öryggisskírteini"></p>
+<p><img src="/images/certs/cert-oryggis.svg" alt="Öryggisskírteini"></p>
 <p>Skoðanir sem styttist í að renni út (e. Due) eða eru útrunnar (e. Over due), eru auðkenndar með rauðum lit.</p>
-<p><img src="images/inspection/hl1.png" alt="Nauðsynleg skírteini skips"></p>
+<p><img src="/images/inspection/hl1.png" alt="Nauðsynleg skírteini skips"></p>
 <h3 id="litakoðar-fyrir-skoðunarhringinn" tabindex="-1"><a class="header-anchor" href="#litakoðar-fyrir-skoðunarhringinn" aria-hidden="true">#</a> Litakóðar fyrir skoðunarhringinn</h3>
 <table>
 <thead>
@@ -70,19 +70,19 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><img src="images/inspection/color-blue.png" style="width: 60% ;"/></td>
+<td style="text-align:left"><img src="/images/inspection/color-blue.png" style="width: 60% ;"/></td>
 <td style="text-align:left">Merkir að opið er fyrir skráningum skoðana</td>
 </tr>
 <tr>
-<td style="text-align:left"><img src="images/inspection/color-green.png" style="width: 36% ;"/></td>
+<td style="text-align:left"><img src="/images/inspection/color-green.png" style="width: 36% ;"/></td>
 <td style="text-align:left">Merkir að skoðun hefur verið kláruð með dæmingu 0</td>
 </tr>
 <tr>
-<td style="text-align:left"><img src="images/inspection/color-yellow.png" style="width: 60% ;"/></td>
+<td style="text-align:left"><img src="/images/inspection/color-yellow.png" style="width: 60% ;"/></td>
 <td style="text-align:left">Merkir að endurskoðun er á dagskrá með dæmingu 2</td>
 </tr>
 <tr>
-<td style="text-align:left"><img src="images/inspection/color-red.png" style="width: 60% ;"/></td>
+<td style="text-align:left"><img src="/images/inspection/color-red.png" style="width: 60% ;"/></td>
 <td style="text-align:left">Skoðun var ekki framkvæmd innan skoðunarglugga eða dæming 3 á atriði</td>
 </tr>
 </tbody>
@@ -115,7 +115,7 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 <Badge text="LEIÐ 2" style="background: orange; margin: 20px 0 -10px 0"/>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>ÚTGÁFA SKÍRTEINA</code> →   <code v-pre>HAFFÆRISSKÍRTEINI</code> →   <code v-pre>NÁNAR</code></p>
 <p>Skoðunarhringurinn birtist einungis þegar leið 2 er valin. <Badge text="TODO Útskýra nánar" style="background: BLUE"/></p>
-<p><img src="images/inspection/leasure1.png" alt=""></p>
+<p><img src="/images/inspection/leasure1.png" alt=""></p>
 <p>Hér sést að skoðanir skemmtibátsins hanga á haffærisskírteinið. <strong>0/1 skoðunum gildar</strong> gefur til kynna að ekki er búið að færa skoðun. Það er gert með því að smella á <code v-pre>Nánar</code> fyrir framan haffærisskírteinið</p>
 <h4 id="skutan-vs-skipaskrain" tabindex="-1"><a class="header-anchor" href="#skutan-vs-skipaskrain" aria-hidden="true">#</a> Skútan vs skipaskráin</h4>
 <p>Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipaskránni. Eftirtalin skoðunaratriði eru færðar upp undir skráningarformin undir Öryggisbúnaðinn (sjá …) - og ekki þarf að skrá undir skoðunarskýrsluna.</p>
@@ -126,6 +126,7 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 <li>8422              Slökkvikerfi</li>
 </ul>
 <h3 id="aukaskoðun" tabindex="-1"><a class="header-anchor" href="#aukaskoðun" aria-hidden="true">#</a> Aukaskoðun</h3>
+<p>Í sumum tilvikum eru ekki notaðar (eingöngu) staðlaðar skoðunarskýrslur (skráningarform) heldur þarf að skrifa t.d. aukaskoðunarskýrslur (v/ t.d. tjóns)</p>
 <h3 id="tækniskoðun" tabindex="-1"><a class="header-anchor" href="#tækniskoðun" aria-hidden="true">#</a> Tækniskoðun</h3>
 <h3 id="fiskiskip-24m" tabindex="-1"><a class="header-anchor" href="#fiskiskip-24m" aria-hidden="true">#</a> Fiskiskip &gt;24m</h3>
 <Badge text="LEIÐ 2" style="background: orange; color: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 -10px 0"/>
