@@ -6,12 +6,13 @@
 ::: -->
 <h2 id="regluvorðurinn" tabindex="-1"><a class="header-anchor" href="#regluvorðurinn" aria-hidden="true">#</a> Regluvörðurinn</h2>
 <p><a href="https://skutantest.samgongustofa.is/complianceOfficer/3002" target="_blank" rel="noopener noreferrer">Regluvörðurinn<ExternalLinkIcon/></a></p>
-<p>Með regluverðinum <code v-pre>(e.rulefinder)</code> má á einfaldan hátt sjá þau skírteini sem skip af ákveðinni stærð og gerð þarf að að fá útgefin og þær skoðanir sem skipið þarf að standast til að fá útgefið haffærisskírteini. Þannig er hægt að nota regluvörðinn til að finna viðeigandi skírteini sem þarf að gefa út fyrir viðkomandi skip skv. lögum og reglugerðum.</p>
+<p>Með regluverðinum <code v-pre>(e.rulefinder)</code> má á einfaldan hátt sjá þau skírteini sem skip af ákveðinni stærð og gerð þarf að að fá útgefin og þær skoðanir sem skipið þarf að standast til að fá útgefið haffærisskírteini.</p>
+<p>Þannig er hægt að nota regluvörðinn sem nokkurs konar uppfléttirit sér til glöggvunar til að finna viðeigandi skírteini sem þarf að gefa út fyrir ákveðið skip skv. lögum og reglugerðum.</p>
 <br/>
 <!-- ![Regluvörður](images/rulefinder.svg) -->
 <img src="/images/rulefinder.svg" style="display: block; width: 70% ; margin: 0 auto"/>
 <p>Það má líta svo á að regluvörðurinn sé hjarta Skútunnar og stærsta breytingin m.v. gömlu skipaskránna, þ.e nú hanga allar skoðanir á ákveðnum skírteinum … blabla og mun auðvelda til muna allt utanumhald um útgáfu skírteina og einnig hentugt tól til glöggvunar ...</p>
-<h3 id="virknin" tabindex="-1"><a class="header-anchor" href="#virknin" aria-hidden="true">#</a> Virknin</h3>
+<details class="custom-container details"><summary>Regluvörðurinn í Skútunni</summary>
 <p><code v-pre>SKÍRTEINI</code>  →   <RouterLink to="/https:/skutantest.samgongustofa.is/">Regluvörður</RouterLink></p>
 <table>
 <thead>
@@ -38,6 +39,7 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 <li>Smíðaefni</li>
 </ul>
 <p>Einnig er að hægt að breyta eigindum skips og smella á BREYTA  hnappinn neðst.</p>
+</details>
 <h3 id="tegundir-skipa" tabindex="-1"><a class="header-anchor" href="#tegundir-skipa" aria-hidden="true">#</a> Tegundir skipa</h3>
 <p>Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðlega siglingu þá verður það skilgreint annað hvort:</p>
 <ul>
@@ -46,6 +48,7 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 <li><code v-pre>LL - LoadLine</code> á bara við skipa yfir 24m að skráningarlengd og í millilandasiglingum.</li>
 </ul>
 <!-- Hér má sjá flokkun skipa eins og þeir eru skilgreindir í Skútunni. -->
+<details class="custom-container details"><summary>Yfir- og undirflokkar skipa</summary>
 <table>
 <thead>
 <tr>
@@ -60,6 +63,7 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 </tr>
 </tbody>
 </table>
+</details>
 <h2 id="utgafa-skirteina" tabindex="-1"><a class="header-anchor" href="#utgafa-skirteina" aria-hidden="true">#</a> Útgáfa skírteina</h2>
 <div class="custom-container tip"><p class="custom-container-title">Ábending</p>
 <p>Útgáfa skírteinis, eins og kveðið er á um í viðeigandi reglum, er staðfesting á að skip hafi verið tekið út í samræmi við þær reglur og uppfylli kröfurnar.</p>
@@ -110,8 +114,21 @@ Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi 
 <!-- ![Framlenging skírteina](images/certs/certs-extend.png)  -->
 <div style="margin-top: 50px"></div>
 <h2 id="farþegaleyfi" tabindex="-1"><a class="header-anchor" href="#farþegaleyfi" aria-hidden="true">#</a> Farþegaleyfi</h2>
-<p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>FARÞEGALEYFA</code></p>
-<!-- ![Farþegaleyfi](images/fartega1.png) -->
+<p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>FARÞEGALEYFI</code></p>
+<p><img src="images/fartega1.png" alt="Farþegaleyfi"></p>
+<h3 id="listi-skipa-með-farþegaleyfi" tabindex="-1"><a class="header-anchor" href="#listi-skipa-með-farþegaleyfi" aria-hidden="true">#</a> Listi skipa með farþegaleyfi <Badge text="TODO" style="background: orange !important"/></h3>
+<p>Skútan er í ólagi - birtir bara eitt skip í töflunni sem farþegaleyfi var síðast gert virkt.</p>
+<p><a href="https://skutantest.samgongustofa.is/reports/shipsWithPassengerPermit" target="_blank" rel="noopener noreferrer">Skútan<ExternalLinkIcon/></a></p>
+<p><a href="https://skipaskra.sigling.is/skjamyndir/skyrslur/SkSkipmedfarthegaleyfi_allir.asp" target="_blank" rel="noopener noreferrer">Skipaskráin<ExternalLinkIcon/></a></p>
+<ol>
+<li>Farsvið annað – birta færslu undir Lýsing á farsviði
+(virkar rétt hér; https://skutantest.samgongustofa.is/reports/passengerPermits )</li>
+<li>Tvöfaldar gæsalappir „“ birtast sem ascii &quot;
+a.	Ef notaðar eru ‚‘ einfaldar gæsalappir birtast þær rétt.</li>
+<li>Vantar útskiptikóða fyrir ship.insurancePassengerCount</li>
+<li>Þarf að breyta formati á dagsetningum expirationDate.is: dd.mm.yyyy</li>
+<li><code v-pre>[[issueTime]]</code> birtir EKKI útgáfutímann</li>
+</ol>
 <!-- 
 <imgDiv>
 

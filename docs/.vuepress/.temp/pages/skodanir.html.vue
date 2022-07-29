@@ -7,15 +7,31 @@
 <h3 id="breytt-fyrirkomulag-skoðana" tabindex="-1"><a class="header-anchor" href="#breytt-fyrirkomulag-skoðana" aria-hidden="true">#</a> Breytt fyrirkomulag skoðana</h3>
 <p>Með reglugerð um skoðanir á skipum og búnaði þeirra, nr. <a href="https://www.reglugerd.is/reglugerdir/allar/nr/1017-2003" target="_blank" rel="noopener noreferrer">1017/2003<ExternalLinkIcon/></a>
 , var innleitt breytt skoðunarfyrirkomulag fyrir skip sem byggir á skoðunarhringjum.</p>
-<details class="custom-container details"><summary>Skoðunarhringir virka þannig</summary>
-<p>að allar skoðanir skips skulu verða framkvæmdar miðað við tiltekna dagsetningu ár hvert, sem kallast afmælisdagsetning. Svigrúmið sem útgerðarmenn hafa til að framkvæma þessar skoðanir á skipum sínum, venjulegast ±3 mánuðir miðað við þessa dagsetningu og er þá talað um skoðunarglugga.</p>
-<p>Skoðunarfyrirkomulagið sem hér um ræðir á rætur að rekja til Evróputilskipunar 97/70/EB um samræmdar reglur um öryggi fiskiskipa sem eru 24 metrar eða lengri. Um er að ræða svipað fyrirkomulag og þekkist úr alþjóðasamningum, t.d. SOLAS.</p>
-<p>Í grundvallaratriðum virkar kerfið þannig að skip, sem skoðunarstofur skoða byrjar í venjulegast 4 ára skoðunarhring (48 mánuðir) með því að allar skoðanir eru framkvæmdar yfir þriggja mánaða tímabil1 (sjá t.d. dálk 6 fyrir árið 2020 í töflu hér að neðan).
+<!-- ****************** nánar *********************** -->
+<details class="custom-container details"><summary>Afmælisdagsetning, skoðunargluggi</summary>
+<p>Skoðunarhringir virka þannig að allar skoðanir skips skulu verða framkvæmdar miðað við tiltekna dagsetningu ár hvert, sem kallast <strong><code v-pre>afmælisdagsetning</code></strong>. Svigrúmið sem útgerðarmenn hafa til að framkvæma þessar skoðanir á skipum sínum, venjulegast <strong>±3 mánuðir</strong> miðað við þessa dagsetningu og er þá talað um <strong><code v-pre>skoðunarglugga</code></strong>.</p>
+<p>Skoðunarfyrirkomulagið sem hér um ræðir á rætur að rekja til Evróputilskipunar <code v-pre>97/70/EB</code> um samræmdar reglur um öryggi fiskiskipa sem eru 24 metrar eða lengri. Um er að ræða svipað fyrirkomulag og þekkist úr alþjóðasamningum, t.d. <code v-pre>SOLAS</code>.</p>
+<p>Í grundvallaratriðum virkar kerfið þannig að skip, sem skoðunarstofur skoða byrjar í venjulegast <strong>4 ára skoðunarhring</strong> (48 mánuðir) með því að allar skoðanir eru framkvæmdar yfir þriggja mánaða tímabil1 (sjá t.d. dálk 6 fyrir árið 2020 í töflu hér að neðan).
 Hér er talað um upphaf skoðunarhrings. Þegar öllum skoðunum er lokið fá flest skip yfir 15 m útgefið öryggisskírteini, með 4 ára gildistíma, sem árita þarf árlega eftir að viðeigandi skoðunum hefur verið lokið á fullnægjandi.</p>
 <p>Öryggisskírteinið er með útgáfudagsetningu og gildir til dagsetningu. Dagsetning gildir til kallast afmælisdagsetning skoðunarhrings / öryggisskírteinis. Þetta er sú dagsetning þegar skoðunarhring lýkur (lok skoðunarhrings).
 Skip undir 15 m fá ekki öryggisskírteini eins og staðan er í dag, en að sama skapi er talað um upphaf skoðunarhrings og afmælisdagsetningu skoðunarhrings fyrirþessi skip (lok skoðunarhrings). Ef skoðunum er lokið innan tímamarka (venjulega +/-3 mánaða svigrúm) miðast upphaf á nýjum skoðunarhring við lok fyrri skoðunarhrings.
 Ef skoðanir eru ekki framkvæmdar innan skoðunarglugga þá fellur viðkomandi skírteini úr gildi sjálfkrafa, sem skoðunin tilheyrir.</p>
 </details>
+<!-- ****************** end::nánar *********************** -->
+<h3 id="skoðunarhringur" tabindex="-1"><a class="header-anchor" href="#skoðunarhringur" aria-hidden="true">#</a> Skoðunarhringur</h3>
+<p>Tökum dæmi með stálskip, 12 ára eða eldra, sem líkur öllum skoðunum 1.1.2020, sem er upphaf á nýjum skoðunarhring.  Afmælisdagsetning skoðunarhringsins er 1.1. og lýkur skoðunarhringnum 2024.</p>
+<p><img src="/images/inspection/1.png" alt="Nauðsynleg skírteini skips"></p>
+<p>Skoðanir sem skal framkvæma eiga því að fara fram ár hvert miðað við afmælisdagsetningu skoðunarhringsins, sem er 1.1. (1. janúar).  Svigrúmið til að framkvæma skoðun (skoðunargluggi) er venjulega +/-3 mánuðir, sem þýðir að skoðanir eiga að fara fram í mánuðum nr. 9 til 15 á öðru ári í skoðunarhringnum (sjá dálkinn fyrir árið 2021 í töflunni).  Í þessu tilviki mega skoðanir hefjast 1.9.2020 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2021 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
+<p>Samkvæmt töflunni skal einungis búnaður og fjarskiptabúnaður skoðast á öðru ári í skoðunarhringum (sjá dálk fyrir árið 2021).</p>
+<p>Á öðru ári í skoðunarhringnum skal skoða búnað, fjarskiptabúnað, bol, vélbúnað og rafmagn  innan +/-3 mánaða miðað við afmælisdagsetningu skoðunarhringsins, þ.e. í mánuðum nr. 21 til 27 í skoðunarhring. Í þessu tilviki mega skoðanir hefjast 1.9.2021 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2022 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
+<p>Á þriðja ári í skoðunarhringnum skulu skoðanir fara fram með sama hætti og á öðru ári, þ.e. í mánuðum 33 til 39 í skoðunarhring.  Í þessu tilviki mega skoðanir hefjast 1.9.2022 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2023 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
+<p>Að fjórða ári í skoðunarhringnum skulu allar skoðanir framkvæmdar enda er þá um er að ræða upphaf á nýjum skoðunarhring. Þá skulu skoðanir fara fram yfir þriggja mánaða tímabil miðað við afmælisdagsetningu skoðunarhringsins, þ.e. í mánuðum 45 til 48 í skoðunarhring  Þetta þýðir að skoðanir mega hefjast 1.9.2023 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.1.2023.  Mikilvægt er að átta sig á, að í lok skoðunarhrings er ekki í boði +3 mánaða svigrúm (skoðunargluggi) til að ljúka skoðunum.</p>
+<p>Mikilvægt er að þeir sem hlut eiga að máli átti sig á hvernig skoðunarfyrirkomulagið virkar.  Skoðanir skulu almennt fara fram innan ±3 mánaða skoðunarglugga miðað við afmælisdagsetningu skoðunarhrings, nema þegar nýr skoðunarhringur hefst, þá eiga skoðanir að fara fram á síðustu þremur mánuðum gildistíma fyrri skoðunarhrings.</p>
+<h3 id="afmælisdagsetning" tabindex="-1"><a class="header-anchor" href="#afmælisdagsetning" aria-hidden="true">#</a> Afmælisdagsetning</h3>
+<p>Þegar staða skipa í dag samkvæmt skipaskrá er borin saman við þetta skoðunarfyrirkomulag kemur í ljós að í sumum tilfellum mun flutningur á milli kerfa ekki alltaf ganga alveg snurðulaust fyrir sig. Hér er átt við að í sumum tilfellum hafa skoðanir á skipum verið framkvæmdar nokkuð dreift yfir árið, t.d. vélbúnaður verið skoðaður í janúar, búnaður í ágúst, bolur í mars og því ekki alltaf auðvelt að staðsetja skip í nýju skoðunarkerfi.  Unnið er að því, að áætla afmælisdagsetningu fyrir öll skip.</p>
+<p>Þegar að Skútan verður tekin í notkun, er nauðsynlegt að gott samstarf verði á milli Samgöngustofu og skoðunaraðila upp á staðsetningu skipa í skoðunarhring.  Þá skiptir mestu máli að Samgöngustofa viti hvaða skoðanir eru á dagskrá þ.a. að afmælisdagsetning liggi fyrir áður en niðurstöður skoðunar eru færðar í Skútuna.  Samgöngustofu mun sjá um að ákvarða afmælisdagsetningu fyrir skipin í samráði við útgerðir þar sem það er nauðsynlegt.</p>
+<p>Útgangspunkturinn við að staðsetja skip í nýju kerfi, er að öxulskoðun, þykktarmæling (þar sem hún á við) og bolskoðun eru framkvæmdar meðan skipið er í slipp og því í flestum tilfellum gerðar á sama tíma. Í flestum tilvikum framkvæmast búnaður og vél einnig í sama mánuði þó það sé ekki algilt.  Jafnframt, þá skulu allar skoðanir framkvæmdar í upphafi skoðunarhrings og öxull, þykktarmæling (þar sem hún á við) framkvæmast einu sinni í skoðunarhringnum.
+Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu skipi, miðað stöðu í skipaskrá, er eins og hér segir:</p>
 <details class="custom-container details"><summary>Dæmi: 30m fiskiskip</summary>
 <p>Öryggisskírteini fiskiskips</p>
 <table>
@@ -34,20 +50,6 @@ Ef skoðanir eru ekki framkvæmdar innan skoðunarglugga þá fellur viðkomand
 </table>
 <p>Afmælisdagsetning skoðunarhrings / öryggisskírteinis er 1.6.2023 Skoðunarglugginn ár hvert er +/-3 mánuðir og skoðanir því framkvæmast á bilinu 1.3 (-3 mánuðir) til 1.9 (+3 mánuðir) ár hvert. Allar skoðanir skv. rg. 122/2004 um öryggi fiskiskipa (búnaður, fjarskiptabúnaður, bolur, vél- og rafmagn, öxull- og stýri, krani) tengjast öryggisskírteininu. Ef þær eru ekki framkvæmdar innan skoðunarglugga, þá fellur öryggisskírteinið sjálfkrafa úr gildi.</p>
 </details>
-<h3 id="skoðunarhringur" tabindex="-1"><a class="header-anchor" href="#skoðunarhringur" aria-hidden="true">#</a> Skoðunarhringur</h3>
-<p>Tökum dæmi með stálskip, 12 ára eða eldra, sem líkur öllum skoðunum 1.1.2020, sem er upphaf á nýjum skoðunarhring.  Afmælisdagsetning skoðunarhringsins er 1.1. og lýkur skoðunarhringnum 2024.</p>
-<p><img src="/images/inspection/1.png" alt="Nauðsynleg skírteini skips"></p>
-<p>Skoðanir sem skal framkvæma eiga því að fara fram ár hvert miðað við afmælisdagsetningu skoðunarhringsins, sem er 1.1. (1. janúar).  Svigrúmið til að framkvæma skoðun (skoðunargluggi) er venjulega +/-3 mánuðir, sem þýðir að skoðanir eiga að fara fram í mánuðum nr. 9 til 15 á öðru ári í skoðunarhringnum (sjá dálkinn fyrir árið 2021 í töflunni).  Í þessu tilviki mega skoðanir hefjast 1.9.2020 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2021 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
-<p>Samkvæmt töflunni skal einungis búnaður og fjarskiptabúnaður skoðast á öðru ári í skoðunarhringum (sjá dálk fyrir árið 2021).</p>
-<p>Á öðru ári í skoðunarhringnum skal skoða búnað, fjarskiptabúnað, bol, vélbúnað og rafmagn  innan +/-3 mánaða miðað við afmælisdagsetningu skoðunarhringsins, þ.e. í mánuðum nr. 21 til 27 í skoðunarhring. Í þessu tilviki mega skoðanir hefjast 1.9.2021 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2022 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
-<p>Á þriðja ári í skoðunarhringnum skulu skoðanir fara fram með sama hætti og á öðru ári, þ.e. í mánuðum 33 til 39 í skoðunarhring.  Í þessu tilviki mega skoðanir hefjast 1.9.2022 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.4.2023 (+3 mánuðir miðað við afmælisdagsetninguna).</p>
-<p>Að fjórða ári í skoðunarhringnum skulu allar skoðanir framkvæmdar enda er þá um er að ræða upphaf á nýjum skoðunarhring. Þá skulu skoðanir fara fram yfir þriggja mánaða tímabil miðað við afmælisdagsetningu skoðunarhringsins, þ.e. í mánuðum 45 til 48 í skoðunarhring  Þetta þýðir að skoðanir mega hefjast 1.9.2023 (-3 mánuðir miðað við afmælisdagsetninguna) en skal lokið í síðasta lagi 1.1.2023.  Mikilvægt er að átta sig á, að í lok skoðunarhrings er ekki í boði +3 mánaða svigrúm (skoðunargluggi) til að ljúka skoðunum.</p>
-<p>Mikilvægt er að þeir sem hlut eiga að máli átti sig á hvernig skoðunarfyrirkomulagið virkar.  Skoðanir skulu almennt fara fram innan ±3 mánaða skoðunarglugga miðað við afmælisdagsetningu skoðunarhrings, nema þegar nýr skoðunarhringur hefst, þá eiga skoðanir að fara fram á síðustu þremur mánuðum gildistíma fyrri skoðunarhrings.</p>
-<h3 id="afmælisdagsetning" tabindex="-1"><a class="header-anchor" href="#afmælisdagsetning" aria-hidden="true">#</a> Afmælisdagsetning</h3>
-<p>Þegar staða skipa í dag samkvæmt skipaskrá er borin saman við þetta skoðunarfyrirkomulag kemur í ljós að í sumum tilfellum mun flutningur á milli kerfa ekki alltaf ganga alveg snurðulaust fyrir sig. Hér er átt við að í sumum tilfellum hafa skoðanir á skipum verið framkvæmdar nokkuð dreift yfir árið, t.d. vélbúnaður verið skoðaður í janúar, búnaður í ágúst, bolur í mars og því ekki alltaf auðvelt að staðsetja skip í nýju skoðunarkerfi.  Unnið er að því, að áætla afmælisdagsetningu fyrir öll skip.</p>
-<p>Þegar að Skútan verður tekin í notkun, er nauðsynlegt að gott samstarf verði á milli Samgöngustofu og skoðunaraðila upp á staðsetningu skipa í skoðunarhring.  Þá skiptir mestu máli að Samgöngustofa viti hvaða skoðanir eru á dagskrá þ.a. að afmælisdagsetning liggi fyrir áður en niðurstöður skoðunar eru færðar í Skútuna.  Samgöngustofu mun sjá um að ákvarða afmælisdagsetningu fyrir skipin í samráði við útgerðir þar sem það er nauðsynlegt.</p>
-<p>Útgangspunkturinn við að staðsetja skip í nýju kerfi, er að öxulskoðun, þykktarmæling (þar sem hún á við) og bolskoðun eru framkvæmdar meðan skipið er í slipp og því í flestum tilfellum gerðar á sama tíma. Í flestum tilvikum framkvæmast búnaður og vél einnig í sama mánuði þó það sé ekki algilt.  Jafnframt, þá skulu allar skoðanir framkvæmdar í upphafi skoðunarhrings og öxull, þykktarmæling (þar sem hún á við) framkvæmast einu sinni í skoðunarhringnum.
-Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu skipi, miðað stöðu í skipaskrá, er eins og hér segir:</p>
 <details class="custom-container details"><summary>Orðskýringar</summary>
 <p><strong>Skoðunarhringur</strong>, er ýmist 4 ára (t.d. fyrir fiskiskip og önnur skip) eða 5 ára (farþegaskip, SOLAS skip, MARPOL skip, LL skip).</p>
 <p><strong>Upphaf skoðunarhrings</strong>, er þegar skoðunarhringur byrjar og allar skoðanir eru framkvæmdar.  Ef skip fær útgefið öryggisskírteini (skip yfir 15 m), þá skal öryggisskírteinið útgefið þegar skoðunum er lokið í upphafi skoðunarhings.  Gildistími öryggisskírteinis kallast afmælis dagsetning.</p>
@@ -117,19 +119,31 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 <p>Skoðunarhringurinn birtist einungis þegar leið 2 er valin. <Badge text="TODO Útskýra nánar" style="background: BLUE"/></p>
 <p><img src="/images/inspection/leasure1.png" alt=""></p>
 <p>Hér sést að skoðanir skemmtibátsins hanga á haffærisskírteinið. <strong>0/1 skoðunum gildar</strong> gefur til kynna að ekki er búið að færa skoðun. Það er gert með því að smella á <code v-pre>Nánar</code> fyrir framan haffærisskírteinið</p>
-<h4 id="skutan-vs-skipaskrain" tabindex="-1"><a class="header-anchor" href="#skutan-vs-skipaskrain" aria-hidden="true">#</a> Skútan vs skipaskráin</h4>
-<p>Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipaskránni. Eftirtalin skoðunaratriði eru færðar upp undir skráningarformin undir Öryggisbúnaðinn (sjá …) - og ekki þarf að skrá undir skoðunarskýrsluna.</p>
+<h3 id="skoðunarskyrslan" tabindex="-1"><a class="header-anchor" href="#skoðunarskyrslan" aria-hidden="true">#</a> Skoðunarskýrslan</h3>
+<p><img src="/images/inspection/skyrsla-skemmti.png" alt=""></p>
+<p>DÆMING 0/1</p>
+<p>Dæming 0: Ef engar dæmingar eru færðar fæst hámarks gildistími fyrir skoðunina (þ.e. 1 ár + 3mánaðar skoðunargluggi)</p>
+<p>DÆMING 2</p>
+<p>Ef skoðunaratriði er ekki * - uppfærist gildistími skoðunarinnar sjálfvirkt þannig að endurskoðun þarf að gerast innan 3ja mánaða frá dagsetningu skoðunar.
+Ef hinsvegar skoðunaratriði er * þarf endurskoðun að gerast innan mánaðar.</p>
+<h4 id="siur" tabindex="-1"><a class="header-anchor" href="#siur" aria-hidden="true">#</a> Síur</h4>
+<div class="custom-container tip"><p class="custom-container-title">Ábending</p>
+<p>Hægt er að slá inn leitarstreng (t.d. 8406 eða seguláttaviti) og síast þá út úr lista skoðunaratriða þau atriði sem innihalda leitarstrenginn.
+<img src="/images/inspection/tip-filter.png" alt="">
+Þetta flýtir fyrir innslátt á skoðunarskýrslunni þar sem ekki þarf að flétta upp og niður til þess að leita að ákveðnu skoðunaratriði.</p>
+</div>
+<h3 id="skutan-vs-skipaskrain" tabindex="-1"><a class="header-anchor" href="#skutan-vs-skipaskrain" aria-hidden="true">#</a> Skútan vs skipaskráin</h3>
+<p>Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipaskránni. Eftirfarandi skoðunaratriði skulu skráð undir öryggisbúnað skips, og birtast þessi aðriði að lokum í heildarlistanum undir <code v-pre>annar öryggisbúnaður</code>.</p>
 <ul>
-<li>8411              Losunarbúnaður</li>
-<li>8406              Seguláttaviti</li>
-<li>8421              Slökkvitæki</li>
-<li>8422              Slökkvikerfi</li>
+<li><strong>8411</strong>              Losunarbúnaður</li>
+<li><strong>8406</strong>              Seguláttaviti</li>
+<li><strong>8421</strong>              Slökkvitæki</li>
+<li><strong>8422</strong>              Slökkvikerfi</li>
 </ul>
 <h3 id="aukaskoðun" tabindex="-1"><a class="header-anchor" href="#aukaskoðun" aria-hidden="true">#</a> Aukaskoðun</h3>
 <p>Í sumum tilvikum eru ekki notaðar (eingöngu) staðlaðar skoðunarskýrslur (skráningarform) heldur þarf að skrifa t.d. aukaskoðunarskýrslur (v/ t.d. tjóns)</p>
 <h3 id="tækniskoðun" tabindex="-1"><a class="header-anchor" href="#tækniskoðun" aria-hidden="true">#</a> Tækniskoðun</h3>
-<h3 id="fiskiskip-24m" tabindex="-1"><a class="header-anchor" href="#fiskiskip-24m" aria-hidden="true">#</a> Fiskiskip &gt;24m</h3>
-<Badge text="LEIÐ 2" style="background: orange; color: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 -10px 0"/>
+<h3 id="dæmi-fiskiskip-24m" tabindex="-1"><a class="header-anchor" href="#dæmi-fiskiskip-24m" aria-hidden="true">#</a> Dæmi - Fiskiskip &gt;24m <Badge text="Dæmi: Fiskiskip >24m" style="background: orange; font-size: 1rem; text-transform: uppercase; padding: 0px 4px;"/></h3>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>ÚTGÁFA SKÍRTEINA</code></p>
 <table>
 <thead>
@@ -144,7 +158,7 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 <tr>
 <td style="text-align:left"><RouterLink to="/">66/2021</RouterLink></td>
 <td style="text-align:left">Skipalög</td>
-<td style="text-align:left"></td>
+<td style="text-align:left"><li>Haffærisskírteini</li></td>
 <td style="text-align:left"></td>
 </tr>
 <tr>

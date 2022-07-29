@@ -24,7 +24,7 @@ module.exports = {
             link: '/',
           },
           {
-            text: 'Skráning',
+            text: 'Skráningar',
             link: '/skraning',
           },
           {
@@ -40,7 +40,7 @@ module.exports = {
             link: '/oryggis',
           },
           {
-            text: 'Lögskráning',
+            text: 'Lögskráningar',
             link: '/logskraning',
           },
           {

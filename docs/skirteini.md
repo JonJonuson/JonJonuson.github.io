@@ -17,7 +17,10 @@ description: Skírteini og tilheyrandi
 ## Regluvörðurinn
 [Regluvörðurinn](https://skutantest.samgongustofa.is/complianceOfficer/3002)  
 
-Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini sem skip af ákveðinni stærð og gerð þarf að að fá útgefin og þær skoðanir sem skipið þarf að standast til að fá útgefið haffærisskírteini. Þannig er hægt að nota regluvörðinn til að finna viðeigandi skírteini sem þarf að gefa út fyrir viðkomandi skip skv. lögum og reglugerðum. 
+
+Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini sem skip af ákveðinni stærð og gerð þarf að að fá útgefin og þær skoðanir sem skipið þarf að standast til að fá útgefið haffærisskírteini. 
+
+Þannig er hægt að nota regluvörðinn sem nokkurs konar uppfléttirit sér til glöggvunar til að finna viðeigandi skírteini sem þarf að gefa út fyrir ákveðið skip skv. lögum og reglugerðum. 
 
 <br/>
 
@@ -26,8 +29,7 @@ Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini
 
 Það má líta svo á að regluvörðurinn sé hjarta Skútunnar og stærsta breytingin m.v. gömlu skipaskránna, þ.e nú hanga allar skoðanir á ákveðnum skírteinum … blabla og mun auðvelda til muna allt utanumhald um útgáfu skírteina og einnig hentugt tól til glöggvunar ...
 
-### Virknin
-
+::: details Regluvörðurinn í Skútunni
  `SKÍRTEINI`  &rarr;   [Regluvörður](https:/skutantest.samgongustofa.is/)
 
 
@@ -47,6 +49,10 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 
 Einnig er að hægt að breyta eigindum skips og smella á BREYTA  hnappinn neðst.
 
+::: 
+
+
+
 
 ### Tegundir skipa
 Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðlega siglingu þá verður það skilgreint annað hvort:
@@ -55,9 +61,12 @@ Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðleg
 - `LL - LoadLine` á bara við skipa yfir 24m að skráningarlengd og í millilandasiglingum. 
 <!-- Hér má sjá flokkun skipa eins og þeir eru skilgreindir í Skútunni. -->
 
+::: details Yfir- og undirflokkar skipa
 |      |  | 
 |-----------|-----------|
 | ![](/images/certs/shiptype-1.png)  | ![](/images/certs/shiptype-1.png)   |
+::: 
+
 
 
 ## Útgáfa skírteina
@@ -161,9 +170,28 @@ Heiti skírteinis sem hlaðið er niður er myndað þannig;
 <div style="margin-top: 50px"></div>
 
 ## Farþegaleyfi
- `SKÍRTEINI OG LEYFI`  &rarr;   `FARÞEGALEYFA`
 
-<!-- ![Farþegaleyfi](images/fartega1.png) -->
+
+ `SKÍRTEINI OG LEYFI`  &rarr;   `FARÞEGALEYFI`
+
+![Farþegaleyfi](images/fartega1.png)
+
+### Listi skipa með farþegaleyfi <Badge text="TODO" style="background: orange !important"/> 
+
+Skútan er í ólagi - birtir bara eitt skip í töflunni sem farþegaleyfi var síðast gert virkt.
+
+
+[Skútan](https://skutantest.samgongustofa.is/reports/shipsWithPassengerPermit)
+
+[Skipaskráin](https://skipaskra.sigling.is/skjamyndir/skyrslur/SkSkipmedfarthegaleyfi_allir.asp)
+
+1.	Farsvið annað – birta færslu undir Lýsing á farsviði 
+(virkar rétt hér; https://skutantest.samgongustofa.is/reports/passengerPermits )
+2.	Tvöfaldar gæsalappir „“ birtast sem ascii &#34; 
+a.	Ef notaðar eru ‚‘ einfaldar gæsalappir birtast þær rétt.
+3.	Vantar útskiptikóða fyrir ship.insurancePassengerCount
+4.	Þarf að breyta formati á dagsetningum expirationDate.is: dd.mm.yyyy
+5.	`[[issueTime]]` birtir EKKI útgáfutímann
 
 
 <!-- 

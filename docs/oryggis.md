@@ -4,15 +4,42 @@ title: Öryggisbúnaður
 description: Skip -> Öryggisbúnaður
 ---
 
+<!-- | ----------- | ----------- |
+|-----------|-----------|
+| ----------- | ----------- |
+| ----------- | ----------- | -->
+
 # Öryggisbúnaður skips
+
+
+## Gildistími búnaðar
+
+
+|      | Gildistími í Skútunni [ár] |
+|-----------|-----------|
+| Slökkvikerfi | 1 |
+| Handslökkvikerfi | 1 |
+| Brunaviðvörun | 1 |
+| Reykköfunartæki | 2 |
+| Neyðaröndunartæki (EEBD) | 5-15 ár |
+| Ýringarkerfi | 5 |
+| Björgunarbúningar | 5 |
+| Kerfi til rýmingar	 |  |
+| Losunarbúnaður, losunar- og sjósetningarbúnaður	 |  |
+| Áttavitar | 2 |
+
+
+		
+		
+		
 
 
 <!-- ::::::::::::::::::::::::::::::::::::::::::: start::Björgunarför ::::::::::::::::::::::::::::::::::::::::::: -->
 ## Björgunarför
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
-<Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; padding: 0px 0 0 4px;"/>
-<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 0 0 4px;"/>
+<Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; "/>
+<Badge text="Skoðunaraðili" style="background: black; color: white;"/>
 
 Skráning á björgunarförum (s.s. gúmmíbátur, léttbátur, lífbátur) skips. Skráðar eru upplýsingar um hvertbjörgunarfar og merkt við hvort báturinn er í losunarbúnaði, losunar- og sjósetningarbúnaði eða sjósetningarbúnaði. Þegar skráning hefur verið staðfest bætist björgunarfar við lista yfir björgunarför skips. 
 
@@ -37,8 +64,8 @@ Birta þarf greinilega út frá síðustu skoðun:
 ## Fjarskiptabúnaður
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
-<Badge text="Skráningaraðili fjarskiptabúnaðar" style="background: #F4D25A !important; color: black; padding: 0px 4px;"/>
-<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
+<Badge text="Skráningaraðili fjarskiptabúnaðar" style="background: #F4D25A !important; color: black;"/>
+<Badge text="Skoðunaraðili" style="background: black; color:"/>
 
 Skráningin á upplýsingum um fjarskiptabúnað fer fram við úttekt á nýju skipi eða innfluttu og eins þegar breytingar eru gerðar á þessum búnaði eða nýr bætist við.  
 

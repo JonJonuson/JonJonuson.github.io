@@ -6,18 +6,95 @@ links: https://v2.vuepress.vuejs.org, https://v2.vuepress.vuejs.org/reference/pl
 hosting: https://pages.github.com, 
 ---
 
-# Leiðbeiningar
+# Skútan 
+
+[Skútan ](https://skutantest.samgongustofa.is/) 
+
+## Handbók og leiðbeiningar
 
 
-Velkomin í Skútu hjálpina, ný skipaskrá og lögskráningarkerfi Samgöngustofu.
+
+Velkomin í þessa handbók fyrir Skútuna, nýtt skipaskráningar- og lögskráningarkerfi Samgöngustofu.
 
 Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.
 
+::: details Hjálpin í símanum
+Nálgast má efnisyfirlitið á einfaldan hátt með að draga fingurinn yrst frá vinstri brún skjásins og til hægri.
+:::
 
-[HSkútan ](https://skutantest.samgongustofa.is/) 
+
 
 
 <!-- [3002 forsíða](http://127.0.0.1:5500/skutan/3002-mobile.html)  -->
+
+
+
+## Notendur
+
+Efnisyfirlitið í valmynd efst á síðu (símanotendur smelli á valmyndartákn efst til vinstri) verði aðgreint eftir notendaflokki, þannig er hægt að aðgangstýra hvaða síður birtist hverjum og einum notenda.
+
+
+Hverjir eru helstu aðgerðir notandans  <Badge text="Landhelgisgæslan" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; "/> ?
+
+- Velur skipaskrárnúmer
+-- og taka flæðið þaðan <Badge text="TODO" style="background: orange !important"/>
+
+
+::: details <button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Innri skoðunaraðilar</button>
+:::
+
+
+::: details <div style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Ytri skoðunaraðilar</div>
+- Innskráning 
+- FAQ (hjálpin)
+- Listi yfir skip sem aðili hefur nýlega skráð á 
+- Listi sem birtir næstu skoðanir skipa (sem aðili hefur unnið með - eða sem skoðunarstofan hefur umsjón með)
+- Regluvörðurinn
+- Skoðunarhringurinn
+- Skrá skoðun
+- Heildarlistinn
+:::
+
+
+
+
+### Tæknideild
+
+
+### Skráningar (Ásta ..)
+
+
+### Ísafjörður (útgáfa skírteina)
+
+
+
+
+
+
+### Þjónustuaðilar öryggisbúnaðar
+- Eiga allir aðilar að geta séð öll skip?
+Flæði:
+- Innskráning 
+- Listi yfir skip sem aðili hefur nýlega skráð á 
+
+
+
+### Landhelgisgæslan (Vefþjónustur)
+
+### Lögskráningaraðilar
+Flæði á að vera:
+- Innskráning 
+- Listi yfir skip sem aðili getur lögskráð á <Badge text="DONE" style="background: orange !important"/>
+- Skip valið (forsíða skips)
+- Tafla núverandi lögskráningar (aðgerðir: afskrá - stöðuskipti) og mönnunarreglur
+- Aðgerð: lögskrá á skip
+
+
+### Fulltrúar skóla
+
+### Fulltrúar tryggingarfélaga
+
+
 
 
 

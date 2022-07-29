@@ -17,13 +17,11 @@
 <p>Aðeins Samgöngustofa og þeir sem sótt hafa um heimild til að lögskrá á skip með því að leggja inn og fá samþykkta slíka umsókn skulu hafa heimild til þess að lögskrá á tiltekið skip.</p>
 <p>Útgerðir skipa geta sótt um að lögskrá sjálfar í gegnum þetta kerfi. Ef skilyrðum fyrir því að útgerð skips megi lögskrá á skip er fullnægt, úthlutar Samgöngustofa aðgangi til viðkomandi einstaklings sem útgerð skipsins hefur veitt umboð til þess að annast lögskráningu.</p>
 <p>Hægt er að sækja um aðgang að lögskráningu <a href="https://eydublod.samgongustofa.is/28635895848971822566" target="_blank" rel="noopener noreferrer">hér<ExternalLinkIcon/></a></p>
-<h2 id="monnunarreglur" tabindex="-1"><a class="header-anchor" href="#monnunarreglur" aria-hidden="true">#</a> Mönnunarreglur</h2>
-<p>tilgreina fjölda manna í áhöfn og hvaða atvinnuréttindi (skírteini) áhöfnin þarf að hafa á viðkomandi skipi og hvaða stöður þurfa að vera mannaðar.</p>
+<h2 id="monnunarreglur" tabindex="-1"><a class="header-anchor" href="#monnunarreglur" aria-hidden="true">#</a> Mönnunarreglur <Badge text="TODO" style="background: orange !important"/></h2>
 <p>Mönnunarreglur tilgreina hvað réttindi áhöfnin um borð í tilteknu skipi þarf að hafa.
-Mönnunarreglur eru háðar lögum og reglugerðum. Í þeim er tilgreint skip sem hefur ákveðna tegund, farsvið, stærð, vélarstærð og farþegafjölda  þarf að hafa ákeðna lágmarksmönnun sem hefur ákveðin réttindi.</p>
-<p>Í kafla 2.1 er fjallað um regluvörð sem er mjög svipað þessari lógík þar sem tilgreint er að lög og reglugerðir og þá hvaða skírteini þarf viðkomandi skip að hafa.</p>
-<p>Nákvæmar skilgreining á hvernig mönnunarreglur tengjast skipum er útlistað í sér kafla <Badge text="TODO" style="background: orange !important"/></p>
-<p>Í lögskráningakerfinu í dag eru tvenns konar mönnunarreglur skráðar á skip. Annars vegar almennar mönnunarreglur og hins vegar sérstakar mönnunarreglur <a href="#s%C3%A9rreglur">sérregla</a>. Skip sem ekki fellur að almennri mönnunarreglu fær skráða sérreglu, sem aðeins gildir fyrir það skip, sjá hér að neðan.</p>
+Mönnunarreglur eru háðar lögum og reglugerðum. Í þeim er tilgreint að skip sem hefur ákveðna tegund, farsvið, stærð, vélarstærð og farþegafjölda þurfi að hafa ákeðna lágmarksmönnun sem hefur ákveðin réttindi.</p>
+<p>Í gamla lögskráningakerfinu voru tvenns konar mönnunarreglur skráðar á skip. Annars vegar almennar mönnunarreglur og hins vegar sérstakar mönnunarreglur <a href="#s%C3%A9rreglur">sérregla</a>. Skip sem ekki fellur að almennri mönnunarreglu fær skráða sérreglu, sem aðeins gildir fyrir það skip, sjá hér að neðan.</p>
+<div style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Sniðmát á mönnunarreglum</div>
 <p>Í þessum kafla er fjallað um hina eiginlegu skráningu á mismunandi sniðmátum á mönnunarreglum sem síðan eru tengd við reglur.</p>
 <details class="custom-container details"><summary>Útlistun á mönnunarreglum</summary>
 <p>Almenn mönnunarregla er tengd við skip út frá stærð vélar í kW (vélstjórnarstöður) eða skráningarlengd skips í metrum ( skipstjórnarstöður). Forsendan sem kerfið gengur út frá við að finna út hvaða mönnunarregla á við tiltekið skip er því sú, að ein mælistærð ráði því ásamt notkunarflokki skipsins (fiskiskip, farþegaskip, o.s.frv) hvaða mönnunarregla á við hvert skip.  Á þessum reglum hafa orðið ýmsar breytingar.</p>

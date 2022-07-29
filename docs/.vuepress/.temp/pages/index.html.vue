@@ -1,8 +1,55 @@
-<template><div><h1 id="leiðbeiningar" tabindex="-1"><a class="header-anchor" href="#leiðbeiningar" aria-hidden="true">#</a> Leiðbeiningar</h1>
-<p>Velkomin í Skútu hjálpina, ný skipaskrá og lögskráningarkerfi Samgöngustofu.</p>
+<template><div><h1 id="skutan" tabindex="-1"><a class="header-anchor" href="#skutan" aria-hidden="true">#</a> Skútan</h1>
+<p><a href="https://skutantest.samgongustofa.is/" target="_blank" rel="noopener noreferrer">Skútan <ExternalLinkIcon/></a></p>
+<h2 id="handbok-og-leiðbeiningar" tabindex="-1"><a class="header-anchor" href="#handbok-og-leiðbeiningar" aria-hidden="true">#</a> Handbók og leiðbeiningar</h2>
+<p>Velkomin í þessa handbók fyrir Skútuna, nýtt skipaskráningar- og lögskráningarkerfi Samgöngustofu.</p>
 <p>Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.</p>
-<p><a href="https://skutantest.samgongustofa.is/" target="_blank" rel="noopener noreferrer">HSkútan <ExternalLinkIcon/></a></p>
+<details class="custom-container details"><summary>Hjálpin í símanum</summary>
+<p>Nálgast má efnisyfirlitið á einfaldan hátt með að draga fingurinn yrst frá vinstri brún skjásins og til hægri.</p>
+</details>
 <!-- [3002 forsíða](http://127.0.0.1:5500/skutan/3002-mobile.html)  -->
+<h2 id="notendur" tabindex="-1"><a class="header-anchor" href="#notendur" aria-hidden="true">#</a> Notendur</h2>
+<p>Efnisyfirlitið í valmynd efst á síðu (símanotendur smelli á valmyndartákn efst til vinstri) verði aðgreint eftir notendaflokki, þannig er hægt að aðgangstýra hvaða síður birtist hverjum og einum notenda.</p>
+<p>Hverjir eru helstu aðgerðir notandans  <Badge text="Landhelgisgæslan" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; "/> ?</p>
+<ul>
+<li>Velur skipaskrárnúmer
+-- og taka flæðið þaðan <Badge text="TODO" style="background: orange !important"/></li>
+</ul>
+<details class="custom-container details"><summary><button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Innri skoðunaraðilar</button></summary>
+</details>
+<details class="custom-container details"><summary><div style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Ytri skoðunaraðilar</div></summary>
+<ul>
+<li>Innskráning</li>
+<li>FAQ (hjálpin)</li>
+<li>Listi yfir skip sem aðili hefur nýlega skráð á</li>
+<li>Listi sem birtir næstu skoðanir skipa (sem aðili hefur unnið með - eða sem skoðunarstofan hefur umsjón með)</li>
+<li>Regluvörðurinn</li>
+<li>Skoðunarhringurinn</li>
+<li>Skrá skoðun</li>
+<li>Heildarlistinn</li>
+</ul>
+</details>
+<h3 id="tæknideild" tabindex="-1"><a class="header-anchor" href="#tæknideild" aria-hidden="true">#</a> Tæknideild</h3>
+<h3 id="skraningar-asta" tabindex="-1"><a class="header-anchor" href="#skraningar-asta" aria-hidden="true">#</a> Skráningar (Ásta ..)</h3>
+<h3 id="isafjorður-utgafa-skirteina" tabindex="-1"><a class="header-anchor" href="#isafjorður-utgafa-skirteina" aria-hidden="true">#</a> Ísafjörður (útgáfa skírteina)</h3>
+<h3 id="þjonustuaðilar-oryggisbunaðar" tabindex="-1"><a class="header-anchor" href="#þjonustuaðilar-oryggisbunaðar" aria-hidden="true">#</a> Þjónustuaðilar öryggisbúnaðar</h3>
+<ul>
+<li>Eiga allir aðilar að geta séð öll skip?
+Flæði:</li>
+<li>Innskráning</li>
+<li>Listi yfir skip sem aðili hefur nýlega skráð á</li>
+</ul>
+<h3 id="landhelgisgæslan-vefþjonustur" tabindex="-1"><a class="header-anchor" href="#landhelgisgæslan-vefþjonustur" aria-hidden="true">#</a> Landhelgisgæslan (Vefþjónustur)</h3>
+<h3 id="logskraningaraðilar" tabindex="-1"><a class="header-anchor" href="#logskraningaraðilar" aria-hidden="true">#</a> Lögskráningaraðilar</h3>
+<p>Flæði á að vera:</p>
+<ul>
+<li>Innskráning</li>
+<li>Listi yfir skip sem aðili getur lögskráð á <Badge text="DONE" style="background: orange !important"/></li>
+<li>Skip valið (forsíða skips)</li>
+<li>Tafla núverandi lögskráningar (aðgerðir: afskrá - stöðuskipti) og mönnunarreglur</li>
+<li>Aðgerð: lögskrá á skip</li>
+</ul>
+<h3 id="fulltruar-skola" tabindex="-1"><a class="header-anchor" href="#fulltruar-skola" aria-hidden="true">#</a> Fulltrúar skóla</h3>
+<h3 id="fulltruar-tryggingarfelaga" tabindex="-1"><a class="header-anchor" href="#fulltruar-tryggingarfelaga" aria-hidden="true">#</a> Fulltrúar tryggingarfélaga</h3>
 <h2 id="innskraning" tabindex="-1"><a class="header-anchor" href="#innskraning" aria-hidden="true">#</a> Innskráning</h2>
 <!-- relative path -->
 <Badge text="Innri notandi" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 10px"/>

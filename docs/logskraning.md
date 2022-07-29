@@ -36,17 +36,13 @@ Aðeins Samgöngustofa og þeir sem sótt hafa um heimild til að lögskrá á s
 Hægt er að sækja um aðgang að lögskráningu [hér](https://eydublod.samgongustofa.is/28635895848971822566)
 
 
-## Mönnunarreglur 
-tilgreina fjölda manna í áhöfn og hvaða atvinnuréttindi (skírteini) áhöfnin þarf að hafa á viðkomandi skipi og hvaða stöður þurfa að vera mannaðar.
-
+## Mönnunarreglur <Badge text="TODO" style="background: orange !important"/>
 Mönnunarreglur tilgreina hvað réttindi áhöfnin um borð í tilteknu skipi þarf að hafa. 
-Mönnunarreglur eru háðar lögum og reglugerðum. Í þeim er tilgreint skip sem hefur ákveðna tegund, farsvið, stærð, vélarstærð og farþegafjölda  þarf að hafa ákeðna lágmarksmönnun sem hefur ákveðin réttindi. 
+Mönnunarreglur eru háðar lögum og reglugerðum. Í þeim er tilgreint að skip sem hefur ákveðna tegund, farsvið, stærð, vélarstærð og farþegafjölda þurfi að hafa ákeðna lágmarksmönnun sem hefur ákveðin réttindi. 
 
-Í kafla 2.1 er fjallað um regluvörð sem er mjög svipað þessari lógík þar sem tilgreint er að lög og reglugerðir og þá hvaða skírteini þarf viðkomandi skip að hafa.
+Í gamla lögskráningakerfinu voru tvenns konar mönnunarreglur skráðar á skip. Annars vegar almennar mönnunarreglur og hins vegar sérstakar mönnunarreglur [sérregla](#sérreglur). Skip sem ekki fellur að almennri mönnunarreglu fær skráða sérreglu, sem aðeins gildir fyrir það skip, sjá hér að neðan. 
 
-Nákvæmar skilgreining á hvernig mönnunarreglur tengjast skipum er útlistað í sér kafla <Badge text="TODO" style="background: orange !important"/>
-
-Í lögskráningakerfinu í dag eru tvenns konar mönnunarreglur skráðar á skip. Annars vegar almennar mönnunarreglur og hins vegar sérstakar mönnunarreglur [sérregla](#sérreglur). Skip sem ekki fellur að almennri mönnunarreglu fær skráða sérreglu, sem aðeins gildir fyrir það skip, sjá hér að neðan. 
+<div style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Sniðmát á mönnunarreglum</div>
 
 Í þessum kafla er fjallað um hina eiginlegu skráningu á mismunandi sniðmátum á mönnunarreglum sem síðan eru tengd við reglur.
 

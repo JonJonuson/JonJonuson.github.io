@@ -4,6 +4,67 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "Handbók og leiðbeiningar",
+        "slug": "handbok-og-leiðbeiningar",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Notendur",
+        "slug": "notendur",
+        "children": [
+          {
+            "level": 3,
+            "title": "Tæknideild",
+            "slug": "tæknideild",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Skráningar (Ásta ..)",
+            "slug": "skraningar-asta",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Ísafjörður (útgáfa skírteina)",
+            "slug": "isafjorður-utgafa-skirteina",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Þjónustuaðilar öryggisbúnaðar",
+            "slug": "þjonustuaðilar-oryggisbunaðar",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Landhelgisgæslan (Vefþjónustur)",
+            "slug": "landhelgisgæslan-vefþjonustur",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Lögskráningaraðilar",
+            "slug": "logskraningaraðilar",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Fulltrúar skóla",
+            "slug": "fulltruar-skola",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Fulltrúar tryggingarfélaga",
+            "slug": "fulltruar-tryggingarfelaga",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
         "title": "Innskráning",
         "slug": "innskraning",
         "children": [

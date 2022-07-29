@@ -19,31 +19,23 @@ description: Skoðanir og skoðunarhringurinn
 Með reglugerð um skoðanir á skipum og búnaði þeirra, nr. [1017/2003](https://www.reglugerd.is/reglugerdir/allar/nr/1017-2003)
 , var innleitt breytt skoðunarfyrirkomulag fyrir skip sem byggir á skoðunarhringjum. 
 
-::: details Skoðunarhringir virka þannig
-að allar skoðanir skips skulu verða framkvæmdar miðað við tiltekna dagsetningu ár hvert, sem kallast afmælisdagsetning. Svigrúmið sem útgerðarmenn hafa til að framkvæma þessar skoðanir á skipum sínum, venjulegast ±3 mánuðir miðað við þessa dagsetningu og er þá talað um skoðunarglugga. 
+<!-- ****************** nánar *********************** -->
+::: details Afmælisdagsetning, skoðunargluggi
+Skoðunarhringir virka þannig að allar skoðanir skips skulu verða framkvæmdar miðað við tiltekna dagsetningu ár hvert, sem kallast **`afmælisdagsetning`**. Svigrúmið sem útgerðarmenn hafa til að framkvæma þessar skoðanir á skipum sínum, venjulegast **±3 mánuðir** miðað við þessa dagsetningu og er þá talað um **`skoðunarglugga`**. 
 
-Skoðunarfyrirkomulagið sem hér um ræðir á rætur að rekja til Evróputilskipunar 97/70/EB um samræmdar reglur um öryggi fiskiskipa sem eru 24 metrar eða lengri. Um er að ræða svipað fyrirkomulag og þekkist úr alþjóðasamningum, t.d. SOLAS.
+Skoðunarfyrirkomulagið sem hér um ræðir á rætur að rekja til Evróputilskipunar `97/70/EB` um samræmdar reglur um öryggi fiskiskipa sem eru 24 metrar eða lengri. Um er að ræða svipað fyrirkomulag og þekkist úr alþjóðasamningum, t.d. `SOLAS`.
 
-Í grundvallaratriðum virkar kerfið þannig að skip, sem skoðunarstofur skoða byrjar í venjulegast 4 ára skoðunarhring (48 mánuðir) með því að allar skoðanir eru framkvæmdar yfir þriggja mánaða tímabil1 (sjá t.d. dálk 6 fyrir árið 2020 í töflu hér að neðan). 
+Í grundvallaratriðum virkar kerfið þannig að skip, sem skoðunarstofur skoða byrjar í venjulegast **4 ára skoðunarhring** (48 mánuðir) með því að allar skoðanir eru framkvæmdar yfir þriggja mánaða tímabil1 (sjá t.d. dálk 6 fyrir árið 2020 í töflu hér að neðan). 
 Hér er talað um upphaf skoðunarhrings. Þegar öllum skoðunum er lokið fá flest skip yfir 15 m útgefið öryggisskírteini, með 4 ára gildistíma, sem árita þarf árlega eftir að viðeigandi skoðunum hefur verið lokið á fullnægjandi. 
 
 Öryggisskírteinið er með útgáfudagsetningu og gildir til dagsetningu. Dagsetning gildir til kallast afmælisdagsetning skoðunarhrings / öryggisskírteinis. Þetta er sú dagsetning þegar skoðunarhring lýkur (lok skoðunarhrings). 
 Skip undir 15 m fá ekki öryggisskírteini eins og staðan er í dag, en að sama skapi er talað um upphaf skoðunarhrings og afmælisdagsetningu skoðunarhrings fyrirþessi skip (lok skoðunarhrings). Ef skoðunum er lokið innan tímamarka (venjulega +/-3 mánaða svigrúm) miðast upphaf á nýjum skoðunarhring við lok fyrri skoðunarhrings.
 Ef skoðanir eru ekki framkvæmdar innan skoðunarglugga þá fellur viðkomandi skírteini úr gildi sjálfkrafa, sem skoðunin tilheyrir.
 :::
+<!-- ****************** end::nánar *********************** -->
 
 
 
-::: details Dæmi: 30m fiskiskip
-Öryggisskírteini fiskiskips
-
-|  Útgáfudagsetning    | Gildisdagsetning  |
-|-----------|-----------|
-| 1.8.2019| 1.6.2023    |
-
-
-Afmælisdagsetning skoðunarhrings / öryggisskírteinis er 1.6.2023 Skoðunarglugginn ár hvert er +/-3 mánuðir og skoðanir því framkvæmast á bilinu 1.3 (-3 mánuðir) til 1.9 (+3 mánuðir) ár hvert. Allar skoðanir skv. rg. 122/2004 um öryggi fiskiskipa (búnaður, fjarskiptabúnaður, bolur, vél- og rafmagn, öxull- og stýri, krani) tengjast öryggisskírteininu. Ef þær eru ekki framkvæmdar innan skoðunarglugga, þá fellur öryggisskírteinið sjálfkrafa úr gildi.
-:::
 
 ### Skoðunarhringur
 Tökum dæmi með stálskip, 12 ára eða eldra, sem líkur öllum skoðunum 1.1.2020, sem er upphaf á nýjum skoðunarhring.  Afmælisdagsetning skoðunarhringsins er 1.1. og lýkur skoðunarhringnum 2024.
@@ -71,6 +63,16 @@ Mikilvægt er að þeir sem hlut eiga að máli átti sig á hvernig skoðunarfy
 Útgangspunkturinn við að staðsetja skip í nýju kerfi, er að öxulskoðun, þykktarmæling (þar sem hún á við) og bolskoðun eru framkvæmdar meðan skipið er í slipp og því í flestum tilfellum gerðar á sama tíma. Í flestum tilvikum framkvæmast búnaður og vél einnig í sama mánuði þó það sé ekki algilt.  Jafnframt, þá skulu allar skoðanir framkvæmdar í upphafi skoðunarhrings og öxull, þykktarmæling (þar sem hún á við) framkvæmast einu sinni í skoðunarhringnum.
 Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu skipi, miðað stöðu í skipaskrá, er eins og hér segir:
 
+::: details Dæmi: 30m fiskiskip
+Öryggisskírteini fiskiskips
+
+|  Útgáfudagsetning    | Gildisdagsetning  |
+|-----------|-----------|
+| 1.8.2019| 1.6.2023    |
+
+
+Afmælisdagsetning skoðunarhrings / öryggisskírteinis er 1.6.2023 Skoðunarglugginn ár hvert er +/-3 mánuðir og skoðanir því framkvæmast á bilinu 1.3 (-3 mánuðir) til 1.9 (+3 mánuðir) ár hvert. Allar skoðanir skv. rg. 122/2004 um öryggi fiskiskipa (búnaður, fjarskiptabúnaður, bolur, vél- og rafmagn, öxull- og stýri, krani) tengjast öryggisskírteininu. Ef þær eru ekki framkvæmdar innan skoðunarglugga, þá fellur öryggisskírteinið sjálfkrafa úr gildi.
+:::
 
 ::: details Orðskýringar
 **Skoðunarhringur**, er ýmist 4 ára (t.d. fyrir fiskiskip og önnur skip) eða 5 ára (farþegaskip, SOLAS skip, MARPOL skip, LL skip).  
@@ -155,12 +157,36 @@ Hér sést að skoðanir skemmtibátsins hanga á haffærisskírteinið. **0/1 s
 
 
 
-#### Skútan vs skipaskráin
-Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipaskránni. Eftirtalin skoðunaratriði eru færðar upp undir skráningarformin undir Öryggisbúnaðinn (sjá …) - og ekki þarf að skrá undir skoðunarskýrsluna.
-- 8411              Losunarbúnaður
-- 8406              Seguláttaviti
-- 8421              Slökkvitæki
-- 8422              Slökkvikerfi
+### Skoðunarskýrslan
+![](/images/inspection/skyrsla-skemmti.png)
+
+
+DÆMING 0/1
+ 
+Dæming 0: Ef engar dæmingar eru færðar fæst hámarks gildistími fyrir skoðunina (þ.e. 1 ár + 3mánaðar skoðunargluggi)
+
+
+DÆMING 2
+ 
+Ef skoðunaratriði er ekki * - uppfærist gildistími skoðunarinnar sjálfvirkt þannig að endurskoðun þarf að gerast innan 3ja mánaða frá dagsetningu skoðunar.
+Ef hinsvegar skoðunaratriði er * þarf endurskoðun að gerast innan mánaðar. 
+
+
+#### Síur
+::: tip Ábending
+
+Hægt er að slá inn leitarstreng (t.d. 8406 eða seguláttaviti) og síast þá út úr lista skoðunaratriða þau atriði sem innihalda leitarstrenginn.
+![](/images/inspection/tip-filter.png)
+Þetta flýtir fyrir innslátt á skoðunarskýrslunni þar sem ekki þarf að flétta upp og niður til þess að leita að ákveðnu skoðunaratriði.
+:::
+
+
+### Skútan vs skipaskráin
+Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipaskránni. Eftirfarandi skoðunaratriði skulu skráð undir öryggisbúnað skips, og birtast þessi aðriði að lokum í heildarlistanum undir `annar öryggisbúnaður`.
+- **8411**              Losunarbúnaður
+- **8406**              Seguláttaviti
+- **8421**              Slökkvitæki
+- **8422**              Slökkvikerfi
 
 
 
@@ -170,16 +196,14 @@ Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipa
 ### Tækniskoðun
 
 
-### Fiskiskip >24m
-
-<Badge text="LEIÐ 2" style="background: orange; color: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 -10px 0"/>
+### Dæmi - Fiskiskip >24m <Badge text="Dæmi: Fiskiskip >24m" style="background: orange; font-size: 1rem; text-transform: uppercase; padding: 0px 4px;"/>
 
  `SKÍRTEINI OG LEYFI`  &rarr;   `ÚTGÁFA SKÍRTEINA`
 
 
 | Lög   |   Lýsing  |  Skírteini    | Skoðanir |
 |:-----------|:-----------|:-----------|:-----------|
-| [66/2021](../README.md)  | Skipalög 
+| [66/2021](../README.md)  | Skipalög  | <li>Haffærisskírteini</li> |
 | [122/2004 ](../README.md)  | Reglugerð um öryggi fiskiskipa sem eru 15 metrar eða lengri að mestu lengd (tilskipun 97/70/EB; Torremolinos)  | <ul><li>Öryggisskírteini fyrir fiskiskip </li> <li>Öryggisskírteini fyrir fiskiskip - Skrá yfir búnað </li></ul>   | <ul><li>Búnaðarskoðun</li><li>Fjarskiptabúnaður</li> <li>Rafmagnsskoðun</li> <li>Bolskoðun</li>  <li>Vélskoðun</li> <li>Öxulskoðun</li>  <li>Kranaskoðun</li></ul>  |
 | [586/2017 ](../README.md)  | MARPOL Reglugerð um innleiðingu viðauka við alþjóðasamning um varnir gegn mengun frá skipum, 1973, með breytingum samkvæmt bókun 1978 | <ul><li>MARPOL I - IOPP Alþjóðlegt Olíumengunarvarnar skírteini </li> </ul>  |
 
