@@ -115,7 +115,7 @@ Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi 
 <div style="margin-top: 50px"></div>
 <h2 id="farþegaleyfi" tabindex="-1"><a class="header-anchor" href="#farþegaleyfi" aria-hidden="true">#</a> Farþegaleyfi</h2>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>FARÞEGALEYFI</code></p>
-<p><img src="images/fartega1.png" alt="Farþegaleyfi"></p>
+<p><img src="/images/fartega1.png" alt="Farþegaleyfi"></p>
 <h3 id="listi-skipa-með-farþegaleyfi" tabindex="-1"><a class="header-anchor" href="#listi-skipa-með-farþegaleyfi" aria-hidden="true">#</a> Listi skipa með farþegaleyfi <Badge text="TODO" style="background: orange !important"/></h3>
 <p>Skútan er í ólagi - birtir bara eitt skip í töflunni sem farþegaleyfi var síðast gert virkt.</p>
 <p><a href="https://skutantest.samgongustofa.is/reports/shipsWithPassengerPermit" target="_blank" rel="noopener noreferrer">Skútan<ExternalLinkIcon/></a></p>

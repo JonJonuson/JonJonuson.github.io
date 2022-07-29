@@ -248,6 +248,12 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "Gildistími búnaðar",
+        "slug": "gildistimi-bunaðar",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "Björgunarför",
         "slug": "bjorgunarfor",
         "children": []
@@ -289,12 +295,6 @@ export const searchIndex = [
         "title": "Regluvörðurinn",
         "slug": "regluvorðurinn",
         "children": [
-          {
-            "level": 3,
-            "title": "Virknin",
-            "slug": "virknin",
-            "children": []
-          },
           {
             "level": 3,
             "title": "Tegundir skipa",
@@ -345,7 +345,14 @@ export const searchIndex = [
         "level": 2,
         "title": "Farþegaleyfi",
         "slug": "farþegaleyfi",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "Listi skipa með farþegaleyfi",
+            "slug": "listi-skipa-með-farþegaleyfi",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/skirteini.html",
@@ -406,6 +413,18 @@ export const searchIndex = [
           },
           {
             "level": 3,
+            "title": "Skoðunarskýrslan",
+            "slug": "skoðunarskyrslan",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Skútan vs skipaskráin",
+            "slug": "skutan-vs-skipaskrain",
+            "children": []
+          },
+          {
+            "level": 3,
             "title": "Aukaskoðun",
             "slug": "aukaskoðun",
             "children": []
@@ -418,8 +437,8 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "Fiskiskip >24m",
-            "slug": "fiskiskip-24m",
+            "title": "Dæmi - Fiskiskip >24m",
+            "slug": "dæmi-fiskiskip-24m",
             "children": []
           }
         ]
@@ -613,16 +632,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

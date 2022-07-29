@@ -174,7 +174,7 @@ Heiti skírteinis sem hlaðið er niður er myndað þannig;
 
  `SKÍRTEINI OG LEYFI`  &rarr;   `FARÞEGALEYFI`
 
-![Farþegaleyfi](images/fartega1.png)
+![Farþegaleyfi](/images/fartega1.png)
 
 ### Listi skipa með farþegaleyfi <Badge text="TODO" style="background: orange !important"/> 
 
