@@ -6,6 +6,5 @@ export const pagesRoutes = [
   ["v-1686fac6","/skodanir.html",{"title":"Skoðanir"},["/skodanir","/skodanir.md"]],
   ["v-4c5be3a5","/skraning.html",{"title":"Skráningar"},["/skraning","/skraning.md"]],
   ["v-adc35804","/web.html",{"title":"Vefþjónustur"},["/web","/web.md"]],
-  ["v-62904a56","/grunnskrar/",{"title":"Grunnskrár"},["/grunnskrar/index.html","/grunnskrar/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

@@ -15,8 +15,6 @@ export const pagesComponents = {
   "v-4c5be3a5": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c5be3a5" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/skraning.html.vue")),
   // path: /web.html
   "v-adc35804": defineAsyncComponent(() => import(/* webpackChunkName: "v-adc35804" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/web.html.vue")),
-  // path: /grunnskrar/
-  "v-62904a56": defineAsyncComponent(() => import(/* webpackChunkName: "v-62904a56" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/grunnskrar/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/404.html.vue")),
 }

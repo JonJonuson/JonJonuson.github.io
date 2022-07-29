@@ -112,11 +112,14 @@ Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi 
 <h2 id="farþegaleyfi" tabindex="-1"><a class="header-anchor" href="#farþegaleyfi" aria-hidden="true">#</a> Farþegaleyfi</h2>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>FARÞEGALEYFA</code></p>
 <!-- ![Farþegaleyfi](images/fartega1.png) -->
+<!-- 
 <imgDiv>
+
 <img class="w-60" src="/images/fartega1.png">
+
 </imgDiv>
-<p><button @click="count++">Næsta</button></p>
-</div></template>
+
+<button @click="count++">Næsta</button>
 
 <script setup>
 import { h, ref } from 'vue'
@@ -149,4 +152,4 @@ button {
   color: navy;
   text-transform: uppercase;
 }
-</style>
+</style> --></div></template>

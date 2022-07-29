@@ -11,7 +11,7 @@ description: Leiðbeiningar fyrir Skútuna
 
 
 
-Notandi: {{ msg }}
+<!-- Notandi: {{ msg }}
 
 <RedDiv>
 
@@ -49,7 +49,7 @@ button {
   color: navy;
   text-transform: uppercase;
 }
-</style>
+</style> -->
 
 
 
@@ -65,7 +65,7 @@ Fyrir notendur Landhelgisgæslunnar - smellið hér
 ## Yfirlit skírteina
 
 
-:::: code-group
+<!-- :::: code-group
 ::: code-group-item FOO
 ```js
 const foo = 'foo'
@@ -104,7 +104,7 @@ export default defineUserConfig({
 })
 ```
 
-This is default theme built-in `<Badge />` component <Badge text="demo" />
+This is default theme built-in `<Badge />` component <Badge text="demo" /> -->
 
 ## Tengingar
 

@@ -545,13 +545,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Grunnskrár",
-    "headers": [],
-    "path": "/grunnskrar/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "",
     "headers": [],
     "path": "/404.html",

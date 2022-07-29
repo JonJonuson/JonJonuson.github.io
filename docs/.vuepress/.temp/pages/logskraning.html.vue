@@ -259,13 +259,18 @@ Atvinnuréttidi sem gefin eru út til samræmis við ákvæði STCW samþykktari
 <Badge text="skráningaraðili námskeiða og prófa" style="background: black; padding: 0px 4px;"/>
 <p>Fulltrúar frá viðurkenndum skólum og/eða prófdómarar hafa aðgang að kerfinu þannig að þeir geti skráð inn í kerfið lok námskeiða, námsáfanga eða prófa.
 Fulltrúar hafa einungis heimild til að skrá inn prófgráðu, nám eða námskeið fyrir þann skóla sem þeir eru fulltrúar fyrir (sbr. kafli 9.3 um skráningu réttinda notenda).</p>
-<p><button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block">OK</button></p>
-<p>Notandi: {{ msg }}</p>
+<!-- <button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block">OK</button>
+
+
+Notandi: {{ msg }}
+
 <RedDiv>
-<p>Teljari: <em>{{ count }}</em></p>
+
+Teljari: _{{ count }}_
+
 </RedDiv>
-<p><button @click="count++" class="btn-mktg btn btn-block">Næsta</button></p>
-</div></template>
+
+<button @click="count++" class="btn-mktg btn btn-block">Næsta</button>
 
 <script setup>
 import { h, ref } from 'vue'
@@ -285,4 +290,5 @@ const count = ref(0)
 .red-div {
   color: teal;
 }
-</style>
+</style> -->
+</div></template>

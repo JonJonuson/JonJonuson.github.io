@@ -1,5 +1,4 @@
 :root {
-
     --color-mktg-btn-bg: #1b1f23;
     --color-mktg-btn-shadow-hover: 0 3px 2px rgba(0, 0, 0, 0.07), 0 7px 5px rgba(0, 0, 0, 0.04), 0 12px 10px rgba(0, 0, 0, 0.03), 0 22px 18px rgba(0, 0, 0, 0.03), 0 42px 33px rgba(0, 0, 0, 0.02), 0 100px 80px rgba(0, 0, 0, 0.02);
     --color-btn-text: #fff;
@@ -77,17 +76,21 @@
     --navbar-padding-h: 1.5rem;
     --content-width: 920px;
     --homepage-width: 960px;
-    --sidebar-width: calc(var(--content-width) * 0.3);
-    --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
+    --sidebar-width: 280px;
+    // --sidebar-width: calc(var(--content-width) * 0.3);
+    --sidebar-width-mobile: calc(var(--sidebar-width) * 1.2);
 
   }
 
   @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400&family=Inter:wght@100;300;400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap');
+
+
   body {
     text-rendering: optimizeLegibility;
     // text-rendering: optimizeSpeed;
     font-family: 'Inter', sans-serif;
-    
+    // --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    // Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
   }
 
@@ -111,7 +114,7 @@ h1 h2 h3 h4{
 .page h1, h2 {
   font-family: 'Merriweather', serif !important;
 
-  margin: 0px 0 20px 0 !important;
+  // margin: 0px 0 !important;
 }
 
 .sidebar-item-children li a {

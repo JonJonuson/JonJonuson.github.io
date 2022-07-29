@@ -279,7 +279,7 @@ Fulltrúar hafa einungis heimild til að skrá inn prófgráðu, nám eða náms
 
 
 
-<button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block">OK</button>
+<!-- <button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block">OK</button>
 
 
 Notandi: {{ msg }}
@@ -310,4 +310,4 @@ const count = ref(0)
 .red-div {
   color: teal;
 }
-</style>
+</style> -->

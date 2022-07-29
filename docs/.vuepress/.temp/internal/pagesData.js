@@ -13,8 +13,6 @@ export const pagesData = {
   "v-4c5be3a5": () => import(/* webpackChunkName: "v-4c5be3a5" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/skraning.html.js").then(({ data }) => data),
   // path: /web.html
   "v-adc35804": () => import(/* webpackChunkName: "v-adc35804" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/web.html.js").then(({ data }) => data),
-  // path: /grunnskrar/
-  "v-62904a56": () => import(/* webpackChunkName: "v-62904a56" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/grunnskrar/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/nonni/Desktop/vuepress-2/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

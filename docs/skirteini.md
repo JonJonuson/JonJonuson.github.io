@@ -166,7 +166,7 @@ Heiti skírteinis sem hlaðið er niður er myndað þannig;
 <!-- ![Farþegaleyfi](images/fartega1.png) -->
 
 
-
+<!-- 
 <imgDiv>
 
 <img class="w-60" src="/images/fartega1.png">
@@ -206,4 +206,4 @@ button {
   color: navy;
   text-transform: uppercase;
 }
-</style>
+</style> -->
