@@ -11,8 +11,8 @@ description: Skip -> Öryggisbúnaður
 ## Björgunarför
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
-<Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; padding: 0px 4px;"/>
-<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
+<Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; padding: 0px 0 0 4px;"/>
+<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 0 0 4px;"/>
 
 Skráning á björgunarförum (s.s. gúmmíbátur, léttbátur, lífbátur) skips. Skráðar eru upplýsingar um hvertbjörgunarfar og merkt við hvort báturinn er í losunarbúnaði, losunar- og sjósetningarbúnaði eða sjósetningarbúnaði. Þegar skráning hefur verið staðfest bætist björgunarfar við lista yfir björgunarför skips. 
 

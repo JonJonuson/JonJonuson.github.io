@@ -3,8 +3,8 @@
 <h2 id="bjorgunarfor" tabindex="-1"><a class="header-anchor" href="#bjorgunarfor" aria-hidden="true">#</a> Björgunarför</h2>
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
-<Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; padding: 0px 4px;"/>
-<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
+<Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; padding: 0px 0 0 4px;"/>
+<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 0 0 4px;"/>
 <p>Skráning á björgunarförum (s.s. gúmmíbátur, léttbátur, lífbátur) skips. Skráðar eru upplýsingar um hvertbjörgunarfar og merkt við hvort báturinn er í losunarbúnaði, losunar- og sjósetningarbúnaði eða sjósetningarbúnaði. Þegar skráning hefur verið staðfest bætist björgunarfar við lista yfir björgunarför skips.</p>
 <p>Með því að smella á björgunarfar í listanum birtast upplýsingar um hann í skráningarsvæðunum.</p>
 <p>Þjónustuaðilar öryggisbúnað, þ.e. ytri notendur, færa upplýsingar um björgunarför og skoðun þeirra í kerfið (rafrænt vottorð fyrir skoðun).
