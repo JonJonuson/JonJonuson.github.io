@@ -9,7 +9,7 @@ hosting: https://pages.github.com,
 # Leiðbeiningar
 
 
-Velkomin í Skútu hjálpina, nýju skipaskrá og lögskráningarkerfi Samgöngustofu.
+Velkomin í Skútu hjálpina, ný skipaskrá og lögskráningarkerfi Samgöngustofu.
 
 Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.
 
@@ -35,7 +35,8 @@ Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni 
 
 - Ytri skoðunaraðilar
 - Lögskráningaraðilar
-- Útgerðir/eigendur skipa
+- Þjónustuaðilar öryggisbúnaðar
+- Útgerðir/eigendur
 - Landhelgisgæslan
 - Fulltrúar skóla
 
@@ -80,7 +81,7 @@ Allar aðgerðir og hlekkir í Skútunni eru <span style="background: #486DB5; p
 |-----------|-----------|-----------|
 | ![](images/timavel.png)  | ![](images/timavel-2.png)   |  ![](images/timavel-2.png)   |
 
-::: tip
+::: tip Ábending
 Hægt er að skrá dagsetningu beint inn í reitinn eða með að smella með músinni á dagsetningu. Ef fara þarf langt fram eða aftur í tímann má smella efst í dagatalinu þar sem mánuður og ár birtist (sjá myndir hér að ofan).
 :::
 

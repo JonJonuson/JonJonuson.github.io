@@ -15,7 +15,6 @@ description: Skírteini og tilheyrandi
 
 
 ## Regluvörðurinn
-
 [Regluvörðurinn](https://skutantest.samgongustofa.is/complianceOfficer/3002)  
 
 Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini sem skip af ákveðinni stærð og gerð þarf að að fá útgefin og þær skoðanir sem skipið þarf að standast til að fá útgefið haffærisskírteini. Þannig er hægt að nota regluvörðinn til að finna viðeigandi skírteini sem þarf að gefa út fyrir viðkomandi skip skv. lögum og reglugerðum. 
@@ -41,9 +40,9 @@ Með regluverðinum `(e.rulefinder)` má á einfaldan hátt sjá þau skírteini
 Fyrir nauðsynleg skírteini skips gildir að blár hnappur birtist, og þegar smellt er á hann birtast skírteinin sem tilgreind lög/reglugerð fjallar um.
 Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 Þegar eftirfarandi upplýsingar um skip eru tiltækar er hægt að ákvarða hvaða lög og reglur gilda og þannig hvaða skírteini skipið þarfnast: 
-- Tegund skips ÞARF
+- Tegund skips <Badge text="*" />
 - Smíði / kjölur lagður (dagsetning og ár)
-- Stærð (BT, BRL, mesta lengd, skráningarlengd) <Badge text="Nauðsyn" />
+- Stærð (BT, BRL, mesta lengd, skráningarlengd) <Badge text="*" />
 - Smíðaefni
 
 Einnig er að hægt að breyta eigindum skips og smella á BREYTA  hnappinn neðst.
@@ -60,7 +59,6 @@ Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðleg
 |-----------|-----------|
 | ![](images/certs/shiptype-1.png)  | ![](images/certs/shiptype-1.png)   |
 
-<div style="margin-top: 50px"></div>
 
 ## Útgáfa skírteina
 ::: tip Ábending
@@ -80,31 +78,31 @@ Tegund skips ákvarðast í kerfinu þannig að  þegar skip fer í alþjóðleg
 
  `SKÍRTEINI OG LEYFI`  &rarr;   `2.2 ÚTGÁFA SKÍRTEINA` 
 
-Í töflu nauðsynlegra skírteina birtast þau skírteini sem ákvarðast út frá eingindum skips í gegnum regluvörðurinn. Þessi gildi sjást í smáa letrinu fyrir neðan töfluna.
+Í töflu nauðsynlegra skírteina birtast þau skírteini sem ákvarðast út frá eingindum skips í gegnum regluvörðinn. Þessi gildi sjást í smáa letrinu fyrir neðan töfluna.
 
 ![Nauðsynleg skírteini skips](images/certs/certs-naudsyn.png)
 
 <!-- ![alt text](images/boats.jpg) -->
 
-<Badge text="Innri notendur" style="background: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 -10px 0"/>
+<Badge text="Innri notendur" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; "/>
 
 Ef hnappurinn `STOFNA SKÍRTEINI` birtist fyrir framan heiti skírteinis þýðir það að ekki er búið að ákvarða afmælisdagsetningu skírteinisins í Skútunni.
 Einungis `admin` og `Ísafjörður` geta stofnað skírteinin.
-Sendu á [skutan@samgongustofa.is](mailto:skutan@samgongustofa.is)  ef eftir skrá á skoðun og ekki er búið að stofna skírteini.
+Sendu á [skutan@samgongustofa.is](mailto:skutan@samgongustofa.is)  ef ekki er búið að stofna skírteini.
 
 
 
 ### Önnur skírteini
-Hægt er að færa handvirkt ákveðin skírteini upp á skip, t.d ef skip er á leiðinni siglingu erlendis.
-Smellt er á örina hægra megin í dálkum og birtist þá innsláttar gluggi sem biður um ástæðu uppfærslu skírteinis með tilvísun í lög/regl.
+Hægt er að færa handvirkt ákveðin skírteini upp á skip, t.d ef skip er á leið í siglingu erlendis.
+Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi sem biður um ástæðu uppfærslu skírteinis með tilvísun í lög/regl.
 
 
-<div style="margin-top: 50px"></div>
+<!-- <div style="margin-top: 50px"></div> -->
 
 ## Yfirlit yfir útgefin skírteini
 Hægt er að sjá yfirlit yfir öll skírteini sem útgefin hafa verið fyrir viðkomandi skip. Þetta er yfirlit yfir skírteini sem skipið er með í dag, óháð því hvort skírteini sé í gildi eða runnið úr gildi.
 
-<div style="margin-top: 50px"></div>
+<!-- <div style="margin-top: 50px"></div> -->
 
 
 
@@ -118,7 +116,7 @@ Ef prenta þarf skírteini er smellt á prent hnappinn og birtist þá listi af 
 <!-- ![Núverandi útgáfur skírteina](images/certs/prenta.png) -->
 <!-- <img src="images/certs/certs-snidmat.png" style=" width: 50%; "/> -->
 
-Í sumum tilvikum eru fleiri en ein útgáfa  (t.d. farþegaleyfi) og er þá hægt að velja útgáfuna sem prenta á úr valmyndinni. <Badge text="TODO" style="background: orange"/>
+Í sumum tilvikum eru fleiri en ein útgáfa  (t.d. farþegaleyfi) og er þá hægt að velja útgáfuna sem prenta á úr valmyndinni. <Badge text="TODO" style="background: orange !important"/>
 
 ::: tip Ábending
 Þetta er breyting frá gömlu Skipaskránni þar sem var innbyggður viewer og var hægt að prenta beint úr þaðan. Þetta verður eins í seinni útgáfum Skútunnar.

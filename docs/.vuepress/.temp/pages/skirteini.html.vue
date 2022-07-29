@@ -32,9 +32,9 @@
 Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 Þegar eftirfarandi upplýsingar um skip eru tiltækar er hægt að ákvarða hvaða lög og reglur gilda og þannig hvaða skírteini skipið þarfnast:</p>
 <ul>
-<li>Tegund skips ÞARF</li>
+<li>Tegund skips <Badge text="*" /></li>
 <li>Smíði / kjölur lagður (dagsetning og ár)</li>
-<li>Stærð (BT, BRL, mesta lengd, skráningarlengd) <Badge text="Nauðsyn" /></li>
+<li>Stærð (BT, BRL, mesta lengd, skráningarlengd) <Badge text="*" /></li>
 <li>Smíðaefni</li>
 </ul>
 <p>Einnig er að hægt að breyta eigindum skips og smella á BREYTA  hnappinn neðst.</p>
@@ -60,7 +60,6 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 </tr>
 </tbody>
 </table>
-<div style="margin-top: 50px"></div>
 <h2 id="utgafa-skirteina" tabindex="-1"><a class="header-anchor" href="#utgafa-skirteina" aria-hidden="true">#</a> Útgáfa skírteina</h2>
 <div class="custom-container tip"><p class="custom-container-title">Ábending</p>
 <p>Útgáfa skírteinis, eins og kveðið er á um í viðeigandi reglum, er staðfesting á að skip hafi verið tekið út í samræmi við þær reglur og uppfylli kröfurnar.</p>
@@ -69,26 +68,26 @@ Skoðanir birtast sem gulur hnappur - birtir reglubundnar skoðanir skips.
 <!-- > :warning: **Warning:** Ekki má  -->
 <h3 id="nauðsynleg-skirteini" tabindex="-1"><a class="header-anchor" href="#nauðsynleg-skirteini" aria-hidden="true">#</a> Nauðsynleg skírteini</h3>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>2.2 ÚTGÁFA SKÍRTEINA</code></p>
-<p>Í töflu nauðsynlegra skírteina birtast þau skírteini sem ákvarðast út frá eingindum skips í gegnum regluvörðurinn. Þessi gildi sjást í smáa letrinu fyrir neðan töfluna.</p>
+<p>Í töflu nauðsynlegra skírteina birtast þau skírteini sem ákvarðast út frá eingindum skips í gegnum regluvörðinn. Þessi gildi sjást í smáa letrinu fyrir neðan töfluna.</p>
 <p><img src="images/certs/certs-naudsyn.png" alt="Nauðsynleg skírteini skips"></p>
 <!-- ![alt text](images/boats.jpg) -->
-<Badge text="Innri notendur" style="background: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 -10px 0"/>
+<Badge text="Innri notendur" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; "/>
 <p>Ef hnappurinn <code v-pre>STOFNA SKÍRTEINI</code> birtist fyrir framan heiti skírteinis þýðir það að ekki er búið að ákvarða afmælisdagsetningu skírteinisins í Skútunni.
 Einungis <code v-pre>admin</code> og <code v-pre>Ísafjörður</code> geta stofnað skírteinin.
-Sendu á <a href="mailto:skutan@samgongustofa.is">skutan@samgongustofa.is</a>  ef eftir skrá á skoðun og ekki er búið að stofna skírteini.</p>
+Sendu á <a href="mailto:skutan@samgongustofa.is">skutan@samgongustofa.is</a>  ef ekki er búið að stofna skírteini.</p>
 <h3 id="onnur-skirteini" tabindex="-1"><a class="header-anchor" href="#onnur-skirteini" aria-hidden="true">#</a> Önnur skírteini</h3>
-<p>Hægt er að færa handvirkt ákveðin skírteini upp á skip, t.d ef skip er á leiðinni siglingu erlendis.
-Smellt er á örina hægra megin í dálkum og birtist þá innsláttar gluggi sem biður um ástæðu uppfærslu skírteinis með tilvísun í lög/regl.</p>
-<div style="margin-top: 50px"></div>
+<p>Hægt er að færa handvirkt ákveðin skírteini upp á skip, t.d ef skip er á leið í siglingu erlendis.
+Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi sem biður um ástæðu uppfærslu skírteinis með tilvísun í lög/regl.</p>
+<!-- <div style="margin-top: 50px"></div> -->
 <h2 id="yfirlit-yfir-utgefin-skirteini" tabindex="-1"><a class="header-anchor" href="#yfirlit-yfir-utgefin-skirteini" aria-hidden="true">#</a> Yfirlit yfir útgefin skírteini</h2>
 <p>Hægt er að sjá yfirlit yfir öll skírteini sem útgefin hafa verið fyrir viðkomandi skip. Þetta er yfirlit yfir skírteini sem skipið er með í dag, óháð því hvort skírteini sé í gildi eða runnið úr gildi.</p>
-<div style="margin-top: 50px"></div>
+<!-- <div style="margin-top: 50px"></div> -->
 <h3 id="prentun-skirteina" tabindex="-1"><a class="header-anchor" href="#prentun-skirteina" aria-hidden="true">#</a> Prentun skírteina <Badge text="INNRI"/></h3>
 <p>Ef prenta þarf skírteini er smellt á prent hnappinn og birtist þá listi af sniðmáti skírteinis sem hlaðið er niður og prentað fyrir hefðbundna útgáfu skírteina. Sjá nánar -  3.6 rafræn útgáfa skírteinis.</p>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>2.3 YFIRLIT YFIR ÚTGEFIN SKÍRTEINI</code></p>
 <!-- ![Núverandi útgáfur skírteina](images/certs/prenta.png) -->
 <!-- <img src="images/certs/certs-snidmat.png" style=" width: 50%; "/> -->
-<p>Í sumum tilvikum eru fleiri en ein útgáfa  (t.d. farþegaleyfi) og er þá hægt að velja útgáfuna sem prenta á úr valmyndinni. <Badge text="TODO" style="background: orange"/></p>
+<p>Í sumum tilvikum eru fleiri en ein útgáfa  (t.d. farþegaleyfi) og er þá hægt að velja útgáfuna sem prenta á úr valmyndinni. <Badge text="TODO" style="background: orange !important"/></p>
 <div class="custom-container tip"><p class="custom-container-title">Ábending</p>
 <p>Þetta er breyting frá gömlu Skipaskránni þar sem var innbyggður viewer og var hægt að prenta beint úr þaðan. Þetta verður eins í seinni útgáfum Skútunnar.</p>
 </div>

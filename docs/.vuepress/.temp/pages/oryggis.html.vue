@@ -1,4 +1,5 @@
 <template><div><h1 id="oryggisbunaður-skips" tabindex="-1"><a class="header-anchor" href="#oryggisbunaður-skips" aria-hidden="true">#</a> Öryggisbúnaður skips</h1>
+<!-- ::::::::::::::::::::::::::::::::::::::::::: start::Björgunarför ::::::::::::::::::::::::::::::::::::::::::: -->
 <h2 id="bjorgunarfor" tabindex="-1"><a class="header-anchor" href="#bjorgunarfor" aria-hidden="true">#</a> Björgunarför</h2>
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
@@ -15,6 +16,8 @@ Athuga þarf hvort viðkomandi björgunarfar sé skráður á annað skip þ.e. 
 <li>Dagsetning síðustu skoðunar</li>
 <li>Skoðun gildir til</li>
 </ul>
+<!-- ::::::::::::::::::::::::::::::::::::::::::: end::Björgunarför ::::::::::::::::::::::::::::::::::::::::::: -->
+<!-- ::::::::::::::::::::::::::::::::::::::::::: start::Fjarskiptabúnaður ::::::::::::::::::::::::::::::::::::::::::: -->
 <h2 id="fjarskiptabunaður" tabindex="-1"><a class="header-anchor" href="#fjarskiptabunaður" aria-hidden="true">#</a> Fjarskiptabúnaður</h2>
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
@@ -23,12 +26,17 @@ Athuga þarf hvort viðkomandi björgunarfar sé skráður á annað skip þ.e. 
 <p>Skráningin á upplýsingum um fjarskiptabúnað fer fram við úttekt á nýju skipi eða innfluttu og eins þegar breytingar eru gerðar á þessum búnaði eða nýr bætist við.</p>
 <p>Gert er ráð fyrir að þessar upplýsingar verði sóttar beint yfir tölvukerfi Póst og fjarskiptastofnunar.  Þessar upplýsingar þurfa sumar hverjar að skila sér inn í viðauka (skrá) við öryggisskírteini skipa og því að birtast sem forprentar við vinnslu á viðkomandi skírteini. Sjá nánar um prentun á skírteinum í kafla 2.</p>
 <p>Þjónustuaðilar við fjarskiptabúnað, færa upplýsingar um skoðun í kerfið (rafrænt vottorð fyrir skoðun).</p>
+<!-- ::::::::::::::::::::::::::::::::::::::::::: end::Fjarskiptabúnaður ::::::::::::::::::::::::::::::::::::::::::: -->
+<!-- ::::::::::::::::::::::::::::::::::::::::::: start::Björgunarbúningar ::::::::::::::::::::::::::::::::::::::::::: -->
 <h2 id="bjorgunarbuningar" tabindex="-1"><a class="header-anchor" href="#bjorgunarbuningar" aria-hidden="true">#</a> Björgunarbúningar</h2>
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
 <Badge text="Þjónustuaðili öryggisbúnaðar" style="background: #BE1E2D !important; color: white; padding: 0px 4px;"/>
 <Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
 <p>Skráningin á flotvinnubúningum fer fram við úttekt á nýju skipi eða innfluttu og eins þegar breytingar eru gerðar á þessum búnaði eða nýr bætist við. Skráðar eru upplýsingar um hvern flotvinnubúning. Þegar skráning hefur verið staðfest bætist búningurinn við lista yfir flotvinnubúninga skips. Með því að smella á búninginn í listanum birtast upplýsingar um hann í skráningarsvæðunum</p>
+<Badge text="TODO" style="background: orange !important"/>
+<p>Við skráningu á björgunarbúningum væri mjög gott að það kæmi fram skoðunarhringur/gildistími vegna þess að nýir gallar eru í 5 ára glugga í 3 ár, svo færast þeir yfir í skoðun á 3ja ára fresti í 3 skipti (þetta á við Viking) og eftir það skoðun á 1 árs fresti - aðrir framleiðendur eru kannski með aðra gildistíma milli skoðana</p>
+<!-- ::::::::::::::::::::::::::::::::::::::::::: end::Björgunarbúningar ::::::::::::::::::::::::::::::::::::::::::: -->
 <h2 id="akkerisbunaður-drattartog-og-landfestar" tabindex="-1"><a class="header-anchor" href="#akkerisbunaður-drattartog-og-landfestar" aria-hidden="true">#</a> Akkerisbúnaður, dráttartóg og landfestar</h2>
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>

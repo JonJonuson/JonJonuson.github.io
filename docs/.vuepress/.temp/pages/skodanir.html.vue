@@ -1,4 +1,5 @@
 <template><div><h1 id="skoðanir-skipa" tabindex="-1"><a class="header-anchor" href="#skoðanir-skipa" aria-hidden="true">#</a> Skoðanir skipa</h1>
+<p><button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Skrá skoðun</button></p>
 <h2 id="skoðunarhringur-a-skipum" tabindex="-1"><a class="header-anchor" href="#skoðunarhringur-a-skipum" aria-hidden="true">#</a> Skoðunarhringur á skipum</h2>
 <div class="custom-container tip"><p class="custom-container-title">Í þessum kafla</p>
 <p>verður fjallað um breytingu í utanumhaldi á skoðunum skipa með tilkomu nýju skipaskrárinnar. Hin raunverulega breyting felst í því, að ekki verður hægt lengur að hliðra skoðunum til í gegnum framlengingar eða endurskoðanir. Þannig skulu þá fara fram tiltekinn fjöldi skoðana yfir 4 eða 5 ára tímabil. Þetta er í samræmi við reglugerð nr. 1017/2003 um skoðanir skipa.</p>
@@ -101,6 +102,9 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 </ul>
 </div>
 <h3 id="skemmtibataskoðun" tabindex="-1"><a class="header-anchor" href="#skemmtibataskoðun" aria-hidden="true">#</a> Skemmtibátaskoðun</h3>
+<br/>
+<Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
+<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
 <p>Einungis innri og ytri skoðunaraðilar geta skráð skoðanir í kerfið. Ein undantekning á þessu er milliskoðun skemmtibáta gerð að eiganda. Slíkar skoðanir verða eins og áður var, yfirlýsing eiganda skal sent rafrænt í gegnum eyðublöð Samgöngustofu - hér má nálgast eyðublað fyrir <a href="https://eydublod.samgongustofa.is/21635889838546420016" target="_blank" rel="noopener noreferrer">milliskoðun skemmtibáts<ExternalLinkIcon/></a>, og þurfa starfsmenn Samgöngustofu að samþykkja, áður en milliskoðunin er skráð í kerfið.</p>
 <details class="custom-container details"><summary><Badge text="LEIÐ 1" style="background: orange !important; "/></summary>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>SKRÁ SKOÐUN</code> →   <code v-pre>REGLUBUNDNAR SKOÐANIR</code></p>
@@ -121,6 +125,8 @@ Tökum dæmi með, stálskip 12 ára eða eldra.  Staða skoðana á  tilteknu s
 <li>8421              Slökkvitæki</li>
 <li>8422              Slökkvikerfi</li>
 </ul>
+<h3 id="aukaskoðun" tabindex="-1"><a class="header-anchor" href="#aukaskoðun" aria-hidden="true">#</a> Aukaskoðun</h3>
+<h3 id="tækniskoðun" tabindex="-1"><a class="header-anchor" href="#tækniskoðun" aria-hidden="true">#</a> Tækniskoðun</h3>
 <h3 id="fiskiskip-24m" tabindex="-1"><a class="header-anchor" href="#fiskiskip-24m" aria-hidden="true">#</a> Fiskiskip &gt;24m</h3>
 <Badge text="LEIÐ 2" style="background: orange; color: black; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 -10px 0"/>
 <p><code v-pre>SKÍRTEINI OG LEYFI</code>  →   <code v-pre>ÚTGÁFA SKÍRTEINA</code></p>

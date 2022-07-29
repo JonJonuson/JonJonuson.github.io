@@ -51,6 +51,38 @@ Nákvæmar skilgreining á hvernig mönnunarreglur tengjast skipum er útlistað
 Í þessum kafla er fjallað um hina eiginlegu skráningu á mismunandi sniðmátum á mönnunarreglum sem síðan eru tengd við reglur.
 
 
+::: details Útlistun á mönnunarreglum
+Almenn mönnunarregla er tengd við skip út frá stærð vélar í kW (vélstjórnarstöður) eða skráningarlengd skips í metrum ( skipstjórnarstöður). Forsendan sem kerfið gengur út frá við að finna út hvaða mönnunarregla á við tiltekið skip er því sú, að ein mælistærð ráði því ásamt notkunarflokki skipsins (fiskiskip, farþegaskip, o.s.frv) hvaða mönnunarregla á við hvert skip.  Á þessum reglum hafa orðið ýmsar breytingar. 
+
+Helstu atriði sem ekki ganga upp samkvæmt áðurgreindum forsendum eru eftirfarandi:
+
+1.	Í sumum tilfellum hefur afl vélar (kW) áhrif á kröfur um skipstjórnarmönnun. 
+
+Um björgunarskip koma brúttólestir líka inn í myndina, þ.e. maður með réttindi A.1 er gjaldgengur í skipstjóra og yfirstýrimannsstöðu á skipi sem er  undir 18M skráningarlengd og undir 30 brúttólestir.
+
+Sömuleiðis getur skráningarlengd skips haft áhrif á vélstjórnarmönnun auk kW –fjölda , og  einnig brúttótonn, sjá næsta lið.
+
+2.	Þegar um er að ræða stöðu vélavarðar (VM) , fer það eftir brúttótonnafjölda skips ásamt vélarstærð í kW hvort réttindi duga í stöðuna.
+
+3.	Á skipum undir 12 M skráningarlengd og með vél undir 750 kW má sami aðili vera skráður í stöðu skipstjóra og vélstjóra. Til að vera í báðum þessum stöðum þarf bæði skipstjórnarréttindi og vélstjórnarréttindi. Þetta brýtur þá reglu í kerfinu að sjómaður megi aðeins vera lögskráður í eina stöðu í senn, þ.e. ekki er hægt að lögskrá mann  ef hann er skráður með aðra lögskráningu. Í þessu tilviki má kannski líta þannig á að skipið hafi tvær mönnunarreglur, annars vegar að skráð skuli í stöðu skipstjóra/vélstjóra, en hins vegar 2 aðskildar stöður, skipstjórn og vélstjórn. Það ræðst svo af því hvernig skráð er í fyrstu stöðuna hvor mönnunarreglan gildir. 
+
+Ath. að það getur haft áhrif á útreikning lögskráningardaga hvernig þetta er útfært, ef maður er skráður í tvær aðskildar stöður reiknast þeir dagar tvöfaldir (þetta þarf að passa að gerist ekki í nýju kerfi).
+
+4.	Í réttindastöður  á farþegaskipum og flutningaskipum er krafist STCW –skírteina. Önnur skírteini veita ekki réttindi á þessi skip. Í öðrum notkunarflokkum geta fleiri en ein tegund skírteina gefið réttindi í stöður. Í þeim tilvikum þarf að hafa í huga að mismunandi skírteini hafa mismunandi skilgreind réttindi, þannig að réttindaflokkar mismunandi skírteina eru skilgreindir á mismunandi hátt, og ekki bein samsvörun þar á milli.
+
+5.	Á farþegaskipum og flutningaskipum miðast  mönnunarreglur skipstjórnar  skips við brúttótonn, en ekki skráningarlengd í metrum.
+
+6.	Að minnsta kosti tvær undantekningar frá almennum mönnunarreglum eru þess eðlis að tiltölulega auðvelt er að meðhöndla þær innan núverandi kerfis, og er það nú þegar gert .
+a)	Ef sjómaður hefur A.1 réttindi nægir það til skipstjórnar á öll skip undir 30 brl án tillits til annarra þátta.
+
+b)	400 brl skírteini nægir til skipstjórnar á allt að 400 brl skip án tillits til annarra þátta  (Þennan punkt þarf að fá staðfestan áður en útfært í kerfinu).
+
+7.	Skoða þarf hvort fleiri forsendur fyrir mönnun gætu komið til álita, svo sem úthaldslengd, farsvið og svo framvegis. 
+
+::: 
+
+
+
 ### Lágmarksmönnun
 | Staða      | Atvinnuréttindi  |
 | :----------- | :----------- |
@@ -144,12 +176,13 @@ Atvinnuréttidi sem gefin eru út til samræmis við ákvæði STCW samþykktari
 
 
 
-::: tip Athugasemdir
+::: tip Athugasemd
 Raða skal eftir skírteinistegundum og tign innan skírteinistegunda. Tign vex með auknum réttindum, byrjar í 1 og endar í fjölda réttindaflokka fyrir viðkomandi skírteinistegund.
 :::
 
 
 ### Réttindaflokkar
+
 | Kóti      | Réttindi  | Skírteini      | BRL        | Lýsing  |    
 | :-----------: | :----------- |:-----------: | ----------- |:----------- |
 | A.1       | Skipstjórn 30 BRL    | A     | <30    | Skipstjórn á skipum, 30 BRL eða minni, í innanlandssiglingum
@@ -157,6 +190,13 @@ Raða skal eftir skírteinistegundum og tign innan skírteinistegunda. Tign vex 
 | A.1       | Skipstjóri      |     H   |           |
 | A.2       | Atvinnuskírteini A         |     E      |<80|
 | A.3       | Stýrimaður 200 BRL        |  A      |   <200        |
+
+
+### Samsettar stöður
+<Badge text="Innri notandi" style="background: #FF8496 !important; text-transform: uppercase; padding: 0px 4px; margin: 20px 0 0 0"/>
+
+`Grunnskrár`  &rarr;  `6.2 Réttindaflokkar` 
+
 
 
 ### Atvinnuskírteini
@@ -270,69 +310,4 @@ const count = ref(0)
 .red-div {
   color: teal;
 }
-.btn-mktg {
-position: relative;
-z-index: 1;
-display: inline-block;
-padding: .9rem 1.5rem 1.1rem;
-font-size: 1rem;
-font-weight: 600;
-line-height: 1;
-color: var(--color-canvas-default);
-text-align: center;
-white-space: nowrap;
-vertical-align: middle;
--webkit-user-select: none;
-user-select: none;
-background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 100%),var(--color-mktg-btn-bg) !important;
-border: 0;
-border-radius: .375rem;
-transition: box-shadow .2s,outline .2s ease;
--webkit-appearance: none !important;
-appearance: none !important;
-}
-
-.btn-block {
-display: block;
-width: 50%;
-text-align: center;
-}
-
-.btn {
-color: var(--color-btn-text);
-background-color: var(--color-btn-bg);
-border-color: var(--color-btn-border);
-box-shadow: var(--color-btn-shadow),var(--color-btn-inset-shadow);
-transition: 80ms cubic-bezier(0.33, 1, 0.68, 1);
-transition-property: color,background-color,box-shadow,border-color;
-cursor: pointer;
-}
-
-.btn-mktg:hover {
-text-decoration: none;
-box-shadow: var(--color-mktg-btn-shadow-hover) !important;
-}
-
-.btn:hover {
-background-color: var(--color-btn-hover-bg);
-border-color: var(--color-btn-hover-border);
-transition-duration: .8s ease-in;
-}
-/* .btn {
-position: relative;
-display: inline-block;
-padding: 5px 16px;
-font-size: 14px;
-font-weight: 500;
-line-height: 20px;
-white-space: nowrap;
-vertical-align: middle;
-
--webkit-user-select: none;
-user-select: none;
-border: 1px solid;
-border-radius: 6px;
--webkit-appearance: none;
-appearance: none;
-} */
 </style>

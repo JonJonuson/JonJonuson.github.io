@@ -6,6 +6,7 @@ description: Skoðanir og skoðunarhringurinn
 
 # Skoðanir skipa
 
+<button style="background-color: #4969ed !important;" data-view-component="true" class="btn-mktg btn btn-block1">Skrá skoðun</button>
 
 
 ## Skoðunarhringur á skipum
@@ -124,6 +125,9 @@ Bendum á að það eru tvær **ríkisleiðir** fyrir skoðunaraðila til skrán
 
 
 ### Skemmtibátaskoðun
+<br/>
+<Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
+<Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
 
 Einungis innri og ytri skoðunaraðilar geta skráð skoðanir í kerfið. Ein undantekning á þessu er milliskoðun skemmtibáta gerð að eiganda. Slíkar skoðanir verða eins og áður var, yfirlýsing eiganda skal sent rafrænt í gegnum eyðublöð Samgöngustofu - hér má nálgast eyðublað fyrir [milliskoðun skemmtibáts](https://eydublod.samgongustofa.is/21635889838546420016), og þurfa starfsmenn Samgöngustofu að samþykkja, áður en milliskoðunin er skráð í kerfið.
 
@@ -159,6 +163,11 @@ Nokkur atriði í Skútunni eru frábrugðin skráningu skoðana í gömlu skipa
 - 8422              Slökkvikerfi
 
 
+
+### Aukaskoðun
+
+
+### Tækniskoðun
 
 
 ### Fiskiskip >24m

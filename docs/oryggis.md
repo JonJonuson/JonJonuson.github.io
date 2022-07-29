@@ -7,6 +7,7 @@ description: Skip -> Öryggisbúnaður
 # Öryggisbúnaður skips
 
 
+<!-- ::::::::::::::::::::::::::::::::::::::::::: start::Björgunarför ::::::::::::::::::::::::::::::::::::::::::: -->
 ## Björgunarför
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
@@ -27,7 +28,12 @@ Birta þarf greinilega út frá síðustu skoðun:
 - Dagsetning síðustu skoðunar
 - Skoðun gildir til
 
+<!-- ::::::::::::::::::::::::::::::::::::::::::: end::Björgunarför ::::::::::::::::::::::::::::::::::::::::::: -->
 
+
+
+
+<!-- ::::::::::::::::::::::::::::::::::::::::::: start::Fjarskiptabúnaður ::::::::::::::::::::::::::::::::::::::::::: -->
 ## Fjarskiptabúnaður
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
@@ -40,7 +46,12 @@ Gert er ráð fyrir að þessar upplýsingar verði sóttar beint yfir tölvuker
 
 Þjónustuaðilar við fjarskiptabúnað, færa upplýsingar um skoðun í kerfið (rafrænt vottorð fyrir skoðun). 
 
+<!-- ::::::::::::::::::::::::::::::::::::::::::: end::Fjarskiptabúnaður ::::::::::::::::::::::::::::::::::::::::::: -->
 
+
+
+
+<!-- ::::::::::::::::::::::::::::::::::::::::::: start::Björgunarbúningar ::::::::::::::::::::::::::::::::::::::::::: -->
 ## Björgunarbúningar
 <br/>
 <Badge text="Innri notandi" style="background: #84EAC8 !important; color: black;"/>
@@ -48,6 +59,15 @@ Gert er ráð fyrir að þessar upplýsingar verði sóttar beint yfir tölvuker
 <Badge text="Skoðunaraðili" style="background: black; color: white; padding: 0px 4px;"/>
 
 Skráningin á flotvinnubúningum fer fram við úttekt á nýju skipi eða innfluttu og eins þegar breytingar eru gerðar á þessum búnaði eða nýr bætist við. Skráðar eru upplýsingar um hvern flotvinnubúning. Þegar skráning hefur verið staðfest bætist búningurinn við lista yfir flotvinnubúninga skips. Með því að smella á búninginn í listanum birtast upplýsingar um hann í skráningarsvæðunum
+
+<Badge text="TODO" style="background: orange !important"/>
+
+Við skráningu á björgunarbúningum væri mjög gott að það kæmi fram skoðunarhringur/gildistími vegna þess að nýir gallar eru í 5 ára glugga í 3 ár, svo færast þeir yfir í skoðun á 3ja ára fresti í 3 skipti (þetta á við Viking) og eftir það skoðun á 1 árs fresti - aðrir framleiðendur eru kannski með aðra gildistíma milli skoðana
+
+<!-- ::::::::::::::::::::::::::::::::::::::::::: end::Björgunarbúningar ::::::::::::::::::::::::::::::::::::::::::: -->
+
+
+
 
 
 ## Akkerisbúnaður, dráttartóg og landfestar

@@ -1,5 +1,5 @@
 <template><div><h1 id="leiðbeiningar" tabindex="-1"><a class="header-anchor" href="#leiðbeiningar" aria-hidden="true">#</a> Leiðbeiningar</h1>
-<p>Velkomin í Skútu hjálpina, nýju skipaskrá og lögskráningarkerfi Samgöngustofu.</p>
+<p>Velkomin í Skútu hjálpina, ný skipaskrá og lögskráningarkerfi Samgöngustofu.</p>
 <p>Leiðbeiningarnar eru kaflaskiptar eftir aðgerðum og sjást þær í stikunni hér að ofan. Undirkaflar birtast svo vinstra megin á síðunni. Einnig má nota leitina efst til hægri.</p>
 <p><a href="https://skutantest.samgongustofa.is/" target="_blank" rel="noopener noreferrer">HSkútan <ExternalLinkIcon/></a></p>
 <!-- [3002 forsíða](http://127.0.0.1:5500/skutan/3002-mobile.html)  -->
@@ -13,7 +13,8 @@
 <ul>
 <li>Ytri skoðunaraðilar</li>
 <li>Lögskráningaraðilar</li>
-<li>Útgerðir/eigendur skipa</li>
+<li>Þjónustuaðilar öryggisbúnaðar</li>
+<li>Útgerðir/eigendur</li>
 <li>Landhelgisgæslan</li>
 <li>Fulltrúar skóla</li>
 </ul>
@@ -52,7 +53,7 @@ Ef íslykill er notaður er smellt er á hnappinn <code v-pre>SKRÁ INN MEÐ ÍS
 </tr>
 </tbody>
 </table>
-<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<div class="custom-container tip"><p class="custom-container-title">Ábending</p>
 <p>Hægt er að skrá dagsetningu beint inn í reitinn eða með að smella með músinni á dagsetningu. Ef fara þarf langt fram eða aftur í tímann má smella efst í dagatalinu þar sem mánuður og ár birtist (sjá myndir hér að ofan).</p>
 </div>
 <h2 id="leit-og-siur" tabindex="-1"><a class="header-anchor" href="#leit-og-siur" aria-hidden="true">#</a> Leit og síur</h2>
