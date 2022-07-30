@@ -58,36 +58,53 @@ button {
 | Header | Title |
 | Paragraph | Text | -->
 
-::: tip
+::: tip Ábending
 Fyrir notendur Landhelgisgæslunnar - smellið hér
 :::
 
 ## Yfirlit skírteina
 
 
-<!-- :::: code-group
-::: code-group-item FOO
+:::: code-group
+::: code-group-item SKIP
 ```js
 const foo = 'foo'
 ```
 :::
-::: code-group-item BAR
+::: code-group-item LÖGSKRÁNINGAR
 ```js
-const bar = 'bar'
+[HttpGet("words")]
+[ProducesResponseType(typeof(List<StringSegment>), 200)]
+[ProducesResponseType(typeof(BadArgumentInfo), 400)]
+public IActionResult GetFancySoundingWords([FromQuery] int limit)
+{
+    if (limit > 500)
+    {
+        return BadRequest(new BadArgumentInfo
+        {
+            Argument = nameof(limit),
+            Message = "Limit cannot exceed 500"
+        });
+    }
+    
+    var words = _scienceManager.GetScienceyWords(limit);
+    return Ok(words.ToList());
+}
 ```
 :::
 ::::
 
-Because VuePress applications are server-rendered in Node.js when generating static builds, any Vue usage must conform to the [universal code requirements](https://ssr.vuejs.org/en/universal.html). In short, make sure to only access Browser / DOM APIs in `beforeMount` or `mounted` hooks.
+<!-- Because VuePress applications are server-rendered in Node.js when generating static builds, any Vue usage must conform to the [universal code requirements](https://ssr.vuejs.org/en/universal.html). In short, make sure to only access Browser / DOM APIs in `beforeMount` or `mounted` hooks.
 
-If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in `<ClientOnly>` component:
+If you are using or demoing components that are not SSR friendly (for example containing custom directives), you can wrap them inside the built-in `<ClientOnly>` component: -->
 
 
-```
+```json
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "shipID": "3030",
+  "shipName": "Skipanafn",
+  "imo": "3093020",
+  "cert-haffaeri": "valid"
 }
 ```
 
@@ -104,7 +121,7 @@ export default defineUserConfig({
 })
 ```
 
-This is default theme built-in `<Badge />` component <Badge text="demo" /> -->
+Fá upplýsingar frá Hannesi <Badge text="TODO" />
 
 ## Tengingar
 

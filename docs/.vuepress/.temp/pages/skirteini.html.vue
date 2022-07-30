@@ -121,8 +121,10 @@ Smellt er á örina hægra megin í dálknum og birtist þá innsláttar gluggi 
 <p><a href="https://skutantest.samgongustofa.is/reports/shipsWithPassengerPermit" target="_blank" rel="noopener noreferrer">Skútan<ExternalLinkIcon/></a></p>
 <p><a href="https://skipaskra.sigling.is/skjamyndir/skyrslur/SkSkipmedfarthegaleyfi_allir.asp" target="_blank" rel="noopener noreferrer">Skipaskráin<ExternalLinkIcon/></a></p>
 <ol>
-<li>Farsvið annað – birta færslu undir Lýsing á farsviði
-(virkar rétt hér; https://skutantest.samgongustofa.is/reports/passengerPermits )</li>
+<li>Farsvið annað – birta færslu undir Lýsing á farsviði</li>
+</ol>
+<!-- (virkar rétt hér; https://skutantest.samgongustofa.is/reports/passengerPermits ) -->
+<ol start="2">
 <li>Tvöfaldar gæsalappir „“ birtast sem ascii &quot;
 a.	Ef notaðar eru ‚‘ einfaldar gæsalappir birtast þær rétt.</li>
 <li>Vantar útskiptikóða fyrir ship.insurancePassengerCount</li>

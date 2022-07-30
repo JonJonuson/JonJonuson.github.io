@@ -186,7 +186,7 @@ Skútan er í ólagi - birtir bara eitt skip í töflunni sem farþegaleyfi var 
 [Skipaskráin](https://skipaskra.sigling.is/skjamyndir/skyrslur/SkSkipmedfarthegaleyfi_allir.asp)
 
 1.	Farsvið annað – birta færslu undir Lýsing á farsviði 
-(virkar rétt hér; https://skutantest.samgongustofa.is/reports/passengerPermits )
+<!-- (virkar rétt hér; https://skutantest.samgongustofa.is/reports/passengerPermits ) -->
 2.	Tvöfaldar gæsalappir „“ birtast sem ascii &#34; 
 a.	Ef notaðar eru ‚‘ einfaldar gæsalappir birtast þær rétt.
 3.	Vantar útskiptikóða fyrir ship.insurancePassengerCount
